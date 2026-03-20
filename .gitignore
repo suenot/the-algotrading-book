@@ -45,3 +45,5 @@ config.local.*
 # OS
 .DS_Store
 Thumbs.db
+
+temp/
