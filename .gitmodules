@@ -1,0 +1,1098 @@
+[submodule "chapters/001_algorithmic_intelligence_intro"]
+	path = chapters/001_algorithmic_intelligence_intro
+	url = git@github.com:suenot/001-algorithmic-intelligence-intro.git
+[submodule "chapters/002_crypto_market_data_pipeline"]
+	path = chapters/002_crypto_market_data_pipeline
+	url = git@github.com:suenot/002-crypto-market-data-pipeline.git
+[submodule "chapters/003_unconventional_crypto_signals"]
+	path = chapters/003_unconventional_crypto_signals
+	url = git@github.com:suenot/003-unconventional-crypto-signals.git
+[submodule "chapters/004_crypto_feature_engineering"]
+	path = chapters/004_crypto_feature_engineering
+	url = git@github.com:suenot/004-crypto-feature-engineering.git
+[submodule "chapters/005_crypto_portfolio_risk"]
+	path = chapters/005_crypto_portfolio_risk
+	url = git@github.com:suenot/005-crypto-portfolio-risk.git
+[submodule "chapters/006_ml_training_financial_data"]
+	path = chapters/006_ml_training_financial_data
+	url = git@github.com:suenot/006-ml-training-financial-data.git
+[submodule "chapters/007_linear_methods_crypto"]
+	path = chapters/007_linear_methods_crypto
+	url = git@github.com:suenot/007-linear-methods-crypto.git
+[submodule "chapters/008_strategy_simulation_pipeline"]
+	path = chapters/008_strategy_simulation_pipeline
+	url = git@github.com:suenot/008-strategy-simulation-pipeline.git
+[submodule "chapters/009_temporal_dynamics_crypto"]
+	path = chapters/009_temporal_dynamics_crypto
+	url = git@github.com:suenot/009-temporal-dynamics-crypto.git
+[submodule "chapters/010_bayesian_crypto_strategies"]
+	path = chapters/010_bayesian_crypto_strategies
+	url = git@github.com:suenot/010-bayesian-crypto-strategies.git
+[submodule "chapters/011_tree_models_crypto"]
+	path = chapters/011_tree_models_crypto
+	url = git@github.com:suenot/011-tree-models-crypto.git
+[submodule "chapters/012_gradient_boosting_crypto"]
+	path = chapters/012_gradient_boosting_crypto
+	url = git@github.com:suenot/012-gradient-boosting-crypto.git
+[submodule "chapters/013_unsupervised_crypto_structure"]
+	path = chapters/013_unsupervised_crypto_structure
+	url = git@github.com:suenot/013-unsupervised-crypto-structure.git
+[submodule "chapters/014_crypto_text_processing"]
+	path = chapters/014_crypto_text_processing
+	url = git@github.com:suenot/014-crypto-text-processing.git
+[submodule "chapters/015_crypto_topic_modeling"]
+	path = chapters/015_crypto_topic_modeling
+	url = git@github.com:suenot/015-crypto-topic-modeling.git
+[submodule "chapters/016_crypto_embeddings"]
+	path = chapters/016_crypto_embeddings
+	url = git@github.com:suenot/016-crypto-embeddings.git
+[submodule "chapters/017_neural_net_foundations_crypto"]
+	path = chapters/017_neural_net_foundations_crypto
+	url = git@github.com:suenot/017-neural-net-foundations-crypto.git
+[submodule "chapters/018_cnn_crypto_patterns"]
+	path = chapters/018_cnn_crypto_patterns
+	url = git@github.com:suenot/018-cnn-crypto-patterns.git
+[submodule "chapters/019_rnn_sequential_crypto"]
+	path = chapters/019_rnn_sequential_crypto
+	url = git@github.com:suenot/019-rnn-sequential-crypto.git
+[submodule "chapters/020_autoencoders_crypto_structure"]
+	path = chapters/020_autoencoders_crypto_structure
+	url = git@github.com:suenot/020-autoencoders-crypto-structure.git
+[submodule "chapters/021_gans_synthetic_crypto"]
+	path = chapters/021_gans_synthetic_crypto
+	url = git@github.com:suenot/021-gans-synthetic-crypto.git
+[submodule "chapters/022_rl_crypto_trading_agent"]
+	path = chapters/022_rl_crypto_trading_agent
+	url = git@github.com:suenot/022-rl-crypto-trading-agent.git
+[submodule "chapters/023_production_deployment_bybit"]
+	path = chapters/023_production_deployment_bybit
+	url = git@github.com:suenot/023-production-deployment-bybit.git
+[submodule "chapters/024_crypto_signal_compendium"]
+	path = chapters/024_crypto_signal_compendium
+	url = git@github.com:suenot/024-crypto-signal-compendium.git
+[submodule "chapters/025_regime_detection_hmm"]
+	path = chapters/025_regime_detection_hmm
+	url = git@github.com:suenot/025-regime-detection-hmm.git
+[submodule "chapters/026_earnings_surprise_prediction"]
+	path = chapters/026_earnings_surprise_prediction
+	url = git@github.com:suenot/026-earnings-surprise-prediction.git
+[submodule "chapters/027_order_flow_imbalance"]
+	path = chapters/027_order_flow_imbalance
+	url = git@github.com:suenot/027-order-flow-imbalance.git
+[submodule "chapters/028_optimal_execution_rl"]
+	path = chapters/028_optimal_execution_rl
+	url = git@github.com:suenot/028-optimal-execution-rl.git
+[submodule "chapters/029_cross_asset_momentum"]
+	path = chapters/029_cross_asset_momentum
+	url = git@github.com:suenot/029-cross-asset-momentum.git
+[submodule "chapters/030_anomaly_detection"]
+	path = chapters/030_anomaly_detection
+	url = git@github.com:suenot/030-anomaly-detection.git
+[submodule "chapters/031_online_learning_adaptive"]
+	path = chapters/031_online_learning_adaptive
+	url = git@github.com:suenot/031-online-learning-adaptive.git
+[submodule "chapters/032_multi_agent_rl"]
+	path = chapters/032_multi_agent_rl
+	url = git@github.com:suenot/032-multi-agent-rl.git
+[submodule "chapters/033_crypto_dex_arbitrage"]
+	path = chapters/033_crypto_dex_arbitrage
+	url = git@github.com:suenot/033-crypto-dex-arbitrage.git
+[submodule "chapters/034_sentiment_momentum_fusion"]
+	path = chapters/034_sentiment_momentum_fusion
+	url = git@github.com:suenot/034-sentiment-momentum-fusion.git
+[submodule "chapters/035_statistical_arbitrage_pairs"]
+	path = chapters/035_statistical_arbitrage_pairs
+	url = git@github.com:suenot/035-statistical-arbitrage-pairs.git
+[submodule "chapters/036_conformal_prediction_trading"]
+	path = chapters/036_conformal_prediction_trading
+	url = git@github.com:suenot/036-conformal-prediction-trading.git
+[submodule "chapters/037_options_ml_greeks"]
+	path = chapters/037_options_ml_greeks
+	url = git@github.com:suenot/037-options-ml-greeks.git
+[submodule "chapters/038_lob_reconstruction_ml"]
+	path = chapters/038_lob_reconstruction_ml
+	url = git@github.com:suenot/038-lob-reconstruction-ml.git
+[submodule "chapters/039_temporal_fusion_transformers"]
+	path = chapters/039_temporal_fusion_transformers
+	url = git@github.com:suenot/039-temporal-fusion-transformers.git
+[submodule "chapters/040_higher_order_transformers"]
+	path = chapters/040_higher_order_transformers
+	url = git@github.com:suenot/040-higher-order-transformers.git
+[submodule "chapters/041_stockformer_multivariate"]
+	path = chapters/041_stockformer_multivariate
+	url = git@github.com:suenot/041-stockformer-multivariate.git
+[submodule "chapters/042_probsparse_attention"]
+	path = chapters/042_probsparse_attention
+	url = git@github.com:suenot/042-probsparse-attention.git
+[submodule "chapters/043_deep_convolutional_transformer"]
+	path = chapters/043_deep_convolutional_transformer
+	url = git@github.com:suenot/043-deep-convolutional-transformer.git
+[submodule "chapters/044_temporal_attention_networks"]
+	path = chapters/044_temporal_attention_networks
+	url = git@github.com:suenot/044-temporal-attention-networks.git
+[submodule "chapters/045_cross_attention_multi_asset"]
+	path = chapters/045_cross_attention_multi_asset
+	url = git@github.com:suenot/045-cross-attention-multi-asset.git
+[submodule "chapters/046_positional_encoding_timeseries"]
+	path = chapters/046_positional_encoding_timeseries
+	url = git@github.com:suenot/046-positional-encoding-timeseries.git
+[submodule "chapters/047_multi_scale_attention"]
+	path = chapters/047_multi_scale_attention
+	url = git@github.com:suenot/047-multi-scale-attention.git
+[submodule "chapters/049_linformer_long_sequences"]
+	path = chapters/049_linformer_long_sequences
+	url = git@github.com:suenot/049-linformer-long-sequences.git
+[submodule "chapters/050_performer_efficient_attention"]
+	path = chapters/050_performer_efficient_attention
+	url = git@github.com:suenot/050-performer-efficient-attention.git
+[submodule "chapters/051_bigbird_sparse_attention"]
+	path = chapters/051_bigbird_sparse_attention
+	url = git@github.com:suenot/051-bigbird-sparse-attention.git
+[submodule "chapters/052_reformer_lsh_attention"]
+	path = chapters/052_reformer_lsh_attention
+	url = git@github.com:suenot/052-reformer-lsh-attention.git
+[submodule "chapters/053_fnet_fourier_transform"]
+	path = chapters/053_fnet_fourier_transform
+	url = git@github.com:suenot/053-fnet-fourier-transform.git
+[submodule "chapters/054_nystromformer_trading"]
+	path = chapters/054_nystromformer_trading
+	url = git@github.com:suenot/054-nystromformer-trading.git
+[submodule "chapters/055_longformer_financial"]
+	path = chapters/055_longformer_financial
+	url = git@github.com:suenot/055-longformer-financial.git
+[submodule "chapters/056_flash_attention_trading"]
+	path = chapters/056_flash_attention_trading
+	url = git@github.com:suenot/056-flash-attention-trading.git
+[submodule "chapters/057_grouped_query_attention"]
+	path = chapters/057_grouped_query_attention
+	url = git@github.com:suenot/057-grouped-query-attention.git
+[submodule "chapters/058_kv_cache_optimization"]
+	path = chapters/058_kv_cache_optimization
+	url = git@github.com:suenot/058-kv-cache-optimization.git
+[submodule "chapters/059_fingpt_financial_llm"]
+	path = chapters/059_fingpt_financial_llm
+	url = git@github.com:suenot/059-fingpt-financial-llm.git
+[submodule "chapters/060_bloomberggpt_trading"]
+	path = chapters/060_bloomberggpt_trading
+	url = git@github.com:suenot/060-bloomberggpt-trading.git
+[submodule "chapters/061_llm_alpha_mining"]
+	path = chapters/061_llm_alpha_mining
+	url = git@github.com:suenot/061-llm-alpha-mining.git
+[submodule "chapters/062_multi_agent_llm_trading"]
+	path = chapters/062_multi_agent_llm_trading
+	url = git@github.com:suenot/062-multi-agent-llm-trading.git
+[submodule "chapters/063_rag_for_trading"]
+	path = chapters/063_rag_for_trading
+	url = git@github.com:suenot/063-rag-for-trading.git
+[submodule "chapters/064_chain_of_thought_trading"]
+	path = chapters/064_chain_of_thought_trading
+	url = git@github.com:suenot/064-chain-of-thought-trading.git
+[submodule "chapters/065_llm_sentiment_analysis"]
+	path = chapters/065_llm_sentiment_analysis
+	url = git@github.com:suenot/065-llm-sentiment-analysis.git
+[submodule "chapters/066_llm_news_interpretation"]
+	path = chapters/066_llm_news_interpretation
+	url = git@github.com:suenot/066-llm-news-interpretation.git
+[submodule "chapters/067_llm_earnings_call_analysis"]
+	path = chapters/067_llm_earnings_call_analysis
+	url = git@github.com:suenot/067-llm-earnings-call-analysis.git
+[submodule "chapters/068_fine_tuning_llm_finance"]
+	path = chapters/068_fine_tuning_llm_finance
+	url = git@github.com:suenot/068-fine-tuning-llm-finance.git
+[submodule "chapters/069_prompt_engineering_trading"]
+	path = chapters/069_prompt_engineering_trading
+	url = git@github.com:suenot/069-prompt-engineering-trading.git
+[submodule "chapters/070_llm_market_simulation"]
+	path = chapters/070_llm_market_simulation
+	url = git@github.com:suenot/070-llm-market-simulation.git
+[submodule "chapters/071_llm_risk_assessment"]
+	path = chapters/071_llm_risk_assessment
+	url = git@github.com:suenot/071-llm-risk-assessment.git
+[submodule "chapters/072_llm_portfolio_construction"]
+	path = chapters/072_llm_portfolio_construction
+	url = git@github.com:suenot/072-llm-portfolio-construction.git
+[submodule "chapters/073_llm_factor_discovery"]
+	path = chapters/073_llm_factor_discovery
+	url = git@github.com:suenot/073-llm-factor-discovery.git
+[submodule "chapters/074_llm_anomaly_detection"]
+	path = chapters/074_llm_anomaly_detection
+	url = git@github.com:suenot/074-llm-anomaly-detection.git
+[submodule "chapters/075_llm_regime_classification"]
+	path = chapters/075_llm_regime_classification
+	url = git@github.com:suenot/075-llm-regime-classification.git
+[submodule "chapters/076_llm_trade_execution"]
+	path = chapters/076_llm_trade_execution
+	url = git@github.com:suenot/076-llm-trade-execution.git
+[submodule "chapters/077_llm_backtesting_assistant"]
+	path = chapters/077_llm_backtesting_assistant
+	url = git@github.com:suenot/077-llm-backtesting-assistant.git
+[submodule "chapters/078_llm_compliance_check"]
+	path = chapters/078_llm_compliance_check
+	url = git@github.com:suenot/078-llm-compliance-check.git
+[submodule "chapters/079_finbert_sentiment"]
+	path = chapters/079_finbert_sentiment
+	url = git@github.com:suenot/079-finbert-sentiment.git
+[submodule "chapters/080_bert_financial_nlp"]
+	path = chapters/080_bert_financial_nlp
+	url = git@github.com:suenot/080-bert-financial-nlp.git
+[submodule "chapters/081_roberta_trading"]
+	path = chapters/081_roberta_trading
+	url = git@github.com:suenot/081-roberta-trading.git
+[submodule "chapters/082_xlnet_finance"]
+	path = chapters/082_xlnet_finance
+	url = git@github.com:suenot/082-xlnet-finance.git
+[submodule "chapters/083_albert_trading"]
+	path = chapters/083_albert_trading
+	url = git@github.com:suenot/083-albert-trading.git
+[submodule "chapters/084_electra_finance"]
+	path = chapters/084_electra_finance
+	url = git@github.com:suenot/084-electra-finance.git
+[submodule "chapters/085_deberta_trading"]
+	path = chapters/085_deberta_trading
+	url = git@github.com:suenot/085-deberta-trading.git
+[submodule "chapters/086_financial_document_summarization"]
+	path = chapters/086_financial_document_summarization
+	url = git@github.com:suenot/086-financial-document-summarization.git
+[submodule "chapters/087_cross_lingual_finance_nlp"]
+	path = chapters/087_cross_lingual_finance_nlp
+	url = git@github.com:suenot/087-cross-lingual-finance-nlp.git
+[submodule "chapters/088_gpt_financial_analysis"]
+	path = chapters/088_gpt_financial_analysis
+	url = git@github.com:suenot/088-gpt-financial-analysis.git
+[submodule "chapters/089_named_entity_recognition_finance"]
+	path = chapters/089_named_entity_recognition_finance
+	url = git@github.com:suenot/089-named-entity-recognition-finance.git
+[submodule "chapters/090_relation_extraction_finance"]
+	path = chapters/090_relation_extraction_finance
+	url = git@github.com:suenot/090-relation-extraction-finance.git
+[submodule "chapters/091_document_classification_finance"]
+	path = chapters/091_document_classification_finance
+	url = git@github.com:suenot/091-document-classification-finance.git
+[submodule "chapters/092_text_summarization_finance"]
+	path = chapters/092_text_summarization_finance
+	url = git@github.com:suenot/092-text-summarization-finance.git
+[submodule "chapters/093_question_answering_finance"]
+	path = chapters/093_question_answering_finance
+	url = git@github.com:suenot/093-question-answering-finance.git
+[submodule "chapters/094_aspect_sentiment_finance"]
+	path = chapters/094_aspect_sentiment_finance
+	url = git@github.com:suenot/094-aspect-sentiment-finance.git
+[submodule "chapters/095_event_extraction_trading"]
+	path = chapters/095_event_extraction_trading
+	url = git@github.com:suenot/095-event-extraction-trading.git
+[submodule "chapters/096_temporal_reasoning_finance"]
+	path = chapters/096_temporal_reasoning_finance
+	url = git@github.com:suenot/096-temporal-reasoning-finance.git
+[submodule "chapters/097_multimodal_nlp_trading"]
+	path = chapters/097_multimodal_nlp_trading
+	url = git@github.com:suenot/097-multimodal-nlp-trading.git
+[submodule "chapters/098_knowledge_graph_trading"]
+	path = chapters/098_knowledge_graph_trading
+	url = git@github.com:suenot/098-knowledge-graph-trading.git
+[submodule "chapters/099_domain_adaptive_pretraining"]
+	path = chapters/099_domain_adaptive_pretraining
+	url = git@github.com:suenot/099-domain-adaptive-pretraining.git
+[submodule "chapters/100_instruction_tuning_finance"]
+	path = chapters/100_instruction_tuning_finance
+	url = git@github.com:suenot/100-instruction-tuning-finance.git
+[submodule "chapters/101_t5_pretraining_finance"]
+	path = chapters/101_t5_pretraining_finance
+	url = git@github.com:suenot/101-t5-pretraining-finance.git
+[submodule "chapters/102_maml_for_trading"]
+	path = chapters/102_maml_for_trading
+	url = git@github.com:suenot/102-maml-for-trading.git
+[submodule "chapters/103_reptile_algorithm_trading"]
+	path = chapters/103_reptile_algorithm_trading
+	url = git@github.com:suenot/103-reptile-algorithm-trading.git
+[submodule "chapters/104_prototypical_networks_finance"]
+	path = chapters/104_prototypical_networks_finance
+	url = git@github.com:suenot/104-prototypical-networks-finance.git
+[submodule "chapters/105_matching_networks_finance"]
+	path = chapters/105_matching_networks_finance
+	url = git@github.com:suenot/105-matching-networks-finance.git
+[submodule "chapters/106_zero_shot_trading"]
+	path = chapters/106_zero_shot_trading
+	url = git@github.com:suenot/106-zero-shot-trading.git
+[submodule "chapters/107_few_shot_market_prediction"]
+	path = chapters/107_few_shot_market_prediction
+	url = git@github.com:suenot/107-few-shot-market-prediction.git
+[submodule "chapters/108_task_agnostic_trading"]
+	path = chapters/108_task_agnostic_trading
+	url = git@github.com:suenot/108-task-agnostic-trading.git
+[submodule "chapters/109_meta_rl_trading"]
+	path = chapters/109_meta_rl_trading
+	url = git@github.com:suenot/109-meta-rl-trading.git
+[submodule "chapters/110_continual_meta_learning"]
+	path = chapters/110_continual_meta_learning
+	url = git@github.com:suenot/110-continual-meta-learning.git
+[submodule "chapters/111_meta_gradient_optimization"]
+	path = chapters/111_meta_gradient_optimization
+	url = git@github.com:suenot/111-meta-gradient-optimization.git
+[submodule "chapters/112_transfer_learning_trading"]
+	path = chapters/112_transfer_learning_trading
+	url = git@github.com:suenot/112-transfer-learning-trading.git
+[submodule "chapters/113_domain_adaptation_finance"]
+	path = chapters/113_domain_adaptation_finance
+	url = git@github.com:suenot/113-domain-adaptation-finance.git
+[submodule "chapters/114_multi_task_learning_trading"]
+	path = chapters/114_multi_task_learning_trading
+	url = git@github.com:suenot/114-multi-task-learning-trading.git
+[submodule "chapters/115_quantnet_transfer_trading"]
+	path = chapters/115_quantnet_transfer_trading
+	url = git@github.com:suenot/115-quantnet-transfer-trading.git
+[submodule "chapters/116_meta_volatility_prediction"]
+	path = chapters/116_meta_volatility_prediction
+	url = git@github.com:suenot/116-meta-volatility-prediction.git
+[submodule "chapters/117_granger_causality_trading"]
+	path = chapters/117_granger_causality_trading
+	url = git@github.com:suenot/117-granger-causality-trading.git
+[submodule "chapters/118_pcmci_causal_discovery"]
+	path = chapters/118_pcmci_causal_discovery
+	url = git@github.com:suenot/118-pcmci-causal-discovery.git
+[submodule "chapters/119_transfer_entropy_trading"]
+	path = chapters/119_transfer_entropy_trading
+	url = git@github.com:suenot/119-transfer-entropy-trading.git
+[submodule "chapters/120_varlingam_markets"]
+	path = chapters/120_varlingam_markets
+	url = git@github.com:suenot/120-varlingam-markets.git
+[submodule "chapters/121_dag_learning_finance"]
+	path = chapters/121_dag_learning_finance
+	url = git@github.com:suenot/121-dag-learning-finance.git
+[submodule "chapters/122_instrumental_variables_trading"]
+	path = chapters/122_instrumental_variables_trading
+	url = git@github.com:suenot/122-instrumental-variables-trading.git
+[submodule "chapters/123_double_ml_trading"]
+	path = chapters/123_double_ml_trading
+	url = git@github.com:suenot/123-double-ml-trading.git
+[submodule "chapters/124_causal_forests_finance"]
+	path = chapters/124_causal_forests_finance
+	url = git@github.com:suenot/124-causal-forests-finance.git
+[submodule "chapters/125_synthetic_control_trading"]
+	path = chapters/125_synthetic_control_trading
+	url = git@github.com:suenot/125-synthetic-control-trading.git
+[submodule "chapters/126_diff_in_diff_trading"]
+	path = chapters/126_diff_in_diff_trading
+	url = git@github.com:suenot/126-diff-in-diff-trading.git
+[submodule "chapters/127_regression_discontinuity"]
+	path = chapters/127_regression_discontinuity
+	url = git@github.com:suenot/127-regression-discontinuity.git
+[submodule "chapters/128_propensity_score_trading"]
+	path = chapters/128_propensity_score_trading
+	url = git@github.com:suenot/128-propensity-score-trading.git
+[submodule "chapters/129_mediation_analysis_finance"]
+	path = chapters/129_mediation_analysis_finance
+	url = git@github.com:suenot/129-mediation-analysis-finance.git
+[submodule "chapters/130_causal_factor_discovery"]
+	path = chapters/130_causal_factor_discovery
+	url = git@github.com:suenot/130-causal-factor-discovery.git
+[submodule "chapters/131_counterfactual_trading"]
+	path = chapters/131_counterfactual_trading
+	url = git@github.com:suenot/131-counterfactual-trading.git
+[submodule "chapters/132_shap_trading_interpretability"]
+	path = chapters/132_shap_trading_interpretability
+	url = git@github.com:suenot/132-shap-trading-interpretability.git
+[submodule "chapters/133_lime_trading_explanation"]
+	path = chapters/133_lime_trading_explanation
+	url = git@github.com:suenot/133-lime-trading-explanation.git
+[submodule "chapters/134_integrated_gradients_finance"]
+	path = chapters/134_integrated_gradients_finance
+	url = git@github.com:suenot/134-integrated-gradients-finance.git
+[submodule "chapters/135_attention_visualization_trading"]
+	path = chapters/135_attention_visualization_trading
+	url = git@github.com:suenot/135-attention-visualization-trading.git
+[submodule "chapters/136_feature_attribution_trading"]
+	path = chapters/136_feature_attribution_trading
+	url = git@github.com:suenot/136-feature-attribution-trading.git
+[submodule "chapters/137_counterfactual_explanations"]
+	path = chapters/137_counterfactual_explanations
+	url = git@github.com:suenot/137-counterfactual-explanations.git
+[submodule "chapters/138_concept_bottleneck_trading"]
+	path = chapters/138_concept_bottleneck_trading
+	url = git@github.com:suenot/138-concept-bottleneck-trading.git
+[submodule "chapters/139_prototype_learning_trading"]
+	path = chapters/139_prototype_learning_trading
+	url = git@github.com:suenot/139-prototype-learning-trading.git
+[submodule "chapters/140_rule_extraction_trading"]
+	path = chapters/140_rule_extraction_trading
+	url = git@github.com:suenot/140-rule-extraction-trading.git
+[submodule "chapters/141_saliency_maps_trading"]
+	path = chapters/141_saliency_maps_trading
+	url = git@github.com:suenot/141-saliency-maps-trading.git
+[submodule "chapters/142_layer_wise_relevance"]
+	path = chapters/142_layer_wise_relevance
+	url = git@github.com:suenot/142-layer-wise-relevance.git
+[submodule "chapters/143_deeplift_trading"]
+	path = chapters/143_deeplift_trading
+	url = git@github.com:suenot/143-deeplift-trading.git
+[submodule "chapters/144_gradcam_finance"]
+	path = chapters/144_gradcam_finance
+	url = git@github.com:suenot/144-gradcam-finance.git
+[submodule "chapters/145_attention_rollout_trading"]
+	path = chapters/145_attention_rollout_trading
+	url = git@github.com:suenot/145-attention-rollout-trading.git
+[submodule "chapters/146_decision_tree_distillation"]
+	path = chapters/146_decision_tree_distillation
+	url = git@github.com:suenot/146-decision-tree-distillation.git
+[submodule "chapters/147_mamba_for_trading"]
+	path = chapters/147_mamba_for_trading
+	url = git@github.com:suenot/147-mamba-for-trading.git
+[submodule "chapters/148_s4_trading"]
+	path = chapters/148_s4_trading
+	url = git@github.com:suenot/148-s4-trading.git
+[submodule "chapters/149_liquid_state_machines"]
+	path = chapters/149_liquid_state_machines
+	url = git@github.com:suenot/149-liquid-state-machines.git
+[submodule "chapters/150_mambats_time_series"]
+	path = chapters/150_mambats_time_series
+	url = git@github.com:suenot/150-mambats-time-series.git
+[submodule "chapters/151_mamba4cast_zero_shot"]
+	path = chapters/151_mamba4cast_zero_shot
+	url = git@github.com:suenot/151-mamba4cast-zero-shot.git
+[submodule "chapters/152_c_mamba_channel_correlation"]
+	path = chapters/152_c_mamba_channel_correlation
+	url = git@github.com:suenot/152-c-mamba-channel-correlation.git
+[submodule "chapters/153_timeparticle_ssm"]
+	path = chapters/153_timeparticle_ssm
+	url = git@github.com:suenot/153-timeparticle-ssm.git
+[submodule "chapters/154_hippo_framework"]
+	path = chapters/154_hippo_framework
+	url = git@github.com:suenot/154-hippo-framework.git
+[submodule "chapters/155_linear_attention_ssm"]
+	path = chapters/155_linear_attention_ssm
+	url = git@github.com:suenot/155-linear-attention-ssm.git
+[submodule "chapters/156_bidirectional_mamba"]
+	path = chapters/156_bidirectional_mamba
+	url = git@github.com:suenot/156-bidirectional-mamba.git
+[submodule "chapters/157_hierarchical_ssm"]
+	path = chapters/157_hierarchical_ssm
+	url = git@github.com:suenot/157-hierarchical-ssm.git
+[submodule "chapters/158_gated_ssm"]
+	path = chapters/158_gated_ssm
+	url = git@github.com:suenot/158-gated-ssm.git
+[submodule "chapters/159_diagonal_ssm"]
+	path = chapters/159_diagonal_ssm
+	url = git@github.com:suenot/159-diagonal-ssm.git
+[submodule "chapters/160_ssm_gnn_hybrid"]
+	path = chapters/160_ssm_gnn_hybrid
+	url = git@github.com:suenot/160-ssm-gnn-hybrid.git
+[submodule "chapters/161_ssm_transformer_hybrid"]
+	path = chapters/161_ssm_transformer_hybrid
+	url = git@github.com:suenot/161-ssm-transformer-hybrid.git
+[submodule "chapters/162_pinn_black_scholes"]
+	path = chapters/162_pinn_black_scholes
+	url = git@github.com:suenot/162-pinn-black-scholes.git
+[submodule "chapters/163_pinn_american_options"]
+	path = chapters/163_pinn_american_options
+	url = git@github.com:suenot/163-pinn-american-options.git
+[submodule "chapters/164_pinn_jump_diffusion"]
+	path = chapters/164_pinn_jump_diffusion
+	url = git@github.com:suenot/164-pinn-jump-diffusion.git
+[submodule "chapters/165_pinn_heston_model"]
+	path = chapters/165_pinn_heston_model
+	url = git@github.com:suenot/165-pinn-heston-model.git
+[submodule "chapters/166_pinn_hull_white_rates"]
+	path = chapters/166_pinn_hull_white_rates
+	url = git@github.com:suenot/166-pinn-hull-white-rates.git
+[submodule "chapters/167_pinn_cir_model"]
+	path = chapters/167_pinn_cir_model
+	url = git@github.com:suenot/167-pinn-cir-model.git
+[submodule "chapters/168_neural_sde_trading"]
+	path = chapters/168_neural_sde_trading
+	url = git@github.com:suenot/168-neural-sde-trading.git
+[submodule "chapters/169_neural_ode_trading"]
+	path = chapters/169_neural_ode_trading
+	url = git@github.com:suenot/169-neural-ode-trading.git
+[submodule "chapters/170_hamiltonian_nn_trading"]
+	path = chapters/170_hamiltonian_nn_trading
+	url = git@github.com:suenot/170-hamiltonian-nn-trading.git
+[submodule "chapters/171_lagrangian_nn_trading"]
+	path = chapters/171_lagrangian_nn_trading
+	url = git@github.com:suenot/171-lagrangian-nn-trading.git
+[submodule "chapters/172_physics_constrained_gan"]
+	path = chapters/172_physics_constrained_gan
+	url = git@github.com:suenot/172-physics-constrained-gan.git
+[submodule "chapters/173_operator_learning_finance"]
+	path = chapters/173_operator_learning_finance
+	url = git@github.com:suenot/173-operator-learning-finance.git
+[submodule "chapters/174_deeponet_finance"]
+	path = chapters/174_deeponet_finance
+	url = git@github.com:suenot/174-deeponet-finance.git
+[submodule "chapters/175_fourier_neural_operator"]
+	path = chapters/175_fourier_neural_operator
+	url = git@github.com:suenot/175-fourier-neural-operator.git
+[submodule "chapters/176_neural_implicit_finance"]
+	path = chapters/176_neural_implicit_finance
+	url = git@github.com:suenot/176-neural-implicit-finance.git
+[submodule "chapters/177_diffusion_models_for_trading"]
+	path = chapters/177_diffusion_models_for_trading
+	url = git@github.com:suenot/177-diffusion-models-for-trading.git
+[submodule "chapters/178_vae_factor_model"]
+	path = chapters/178_vae_factor_model
+	url = git@github.com:suenot/178-vae-factor-model.git
+[submodule "chapters/179_disentangled_factor_vae"]
+	path = chapters/179_disentangled_factor_vae
+	url = git@github.com:suenot/179-disentangled-factor-vae.git
+[submodule "chapters/180_rvrae_dynamic_factor"]
+	path = chapters/180_rvrae_dynamic_factor
+	url = git@github.com:suenot/180-rvrae-dynamic-factor.git
+[submodule "chapters/181_beta_vae_trading"]
+	path = chapters/181_beta_vae_trading
+	url = git@github.com:suenot/181-beta-vae-trading.git
+[submodule "chapters/182_vq_vae_trading"]
+	path = chapters/182_vq_vae_trading
+	url = git@github.com:suenot/182-vq-vae-trading.git
+[submodule "chapters/183_conditional_vae_trading"]
+	path = chapters/183_conditional_vae_trading
+	url = git@github.com:suenot/183-conditional-vae-trading.git
+[submodule "chapters/184_hierarchical_vae_trading"]
+	path = chapters/184_hierarchical_vae_trading
+	url = git@github.com:suenot/184-hierarchical-vae-trading.git
+[submodule "chapters/185_disentangled_vae_trading"]
+	path = chapters/185_disentangled_vae_trading
+	url = git@github.com:suenot/185-disentangled-vae-trading.git
+[submodule "chapters/186_vae_portfolio_generation"]
+	path = chapters/186_vae_portfolio_generation
+	url = git@github.com:suenot/186-vae-portfolio-generation.git
+[submodule "chapters/187_vae_volatility_surface"]
+	path = chapters/187_vae_volatility_surface
+	url = git@github.com:suenot/187-vae-volatility-surface.git
+[submodule "chapters/188_normalizing_flows_finance"]
+	path = chapters/188_normalizing_flows_finance
+	url = git@github.com:suenot/188-normalizing-flows-finance.git
+[submodule "chapters/189_realnvp_trading"]
+	path = chapters/189_realnvp_trading
+	url = git@github.com:suenot/189-realnvp-trading.git
+[submodule "chapters/190_glow_trading"]
+	path = chapters/190_glow_trading
+	url = git@github.com:suenot/190-glow-trading.git
+[submodule "chapters/191_neural_spline_flows"]
+	path = chapters/191_neural_spline_flows
+	url = git@github.com:suenot/191-neural-spline-flows.git
+[submodule "chapters/192_continuous_normalizing_flows"]
+	path = chapters/192_continuous_normalizing_flows
+	url = git@github.com:suenot/192-continuous-normalizing-flows.git
+[submodule "chapters/193_score_matching_trading"]
+	path = chapters/193_score_matching_trading
+	url = git@github.com:suenot/193-score-matching-trading.git
+[submodule "chapters/194_energy_based_models"]
+	path = chapters/194_energy_based_models
+	url = git@github.com:suenot/194-energy-based-models.git
+[submodule "chapters/195_hopfield_networks_trading"]
+	path = chapters/195_hopfield_networks_trading
+	url = git@github.com:suenot/195-hopfield-networks-trading.git
+[submodule "chapters/196_associative_memory_trading"]
+	path = chapters/196_associative_memory_trading
+	url = git@github.com:suenot/196-associative-memory-trading.git
+[submodule "chapters/197_simclr_for_stocks"]
+	path = chapters/197_simclr_for_stocks
+	url = git@github.com:suenot/197-simclr-for-stocks.git
+[submodule "chapters/198_moco_trading"]
+	path = chapters/198_moco_trading
+	url = git@github.com:suenot/198-moco-trading.git
+[submodule "chapters/199_byol_trading"]
+	path = chapters/199_byol_trading
+	url = git@github.com:suenot/199-byol-trading.git
+[submodule "chapters/200_barlow_twins_finance"]
+	path = chapters/200_barlow_twins_finance
+	url = git@github.com:suenot/200-barlow-twins-finance.git
+[submodule "chapters/201_swav_trading"]
+	path = chapters/201_swav_trading
+	url = git@github.com:suenot/201-swav-trading.git
+[submodule "chapters/202_vicreg_trading"]
+	path = chapters/202_vicreg_trading
+	url = git@github.com:suenot/202-vicreg-trading.git
+[submodule "chapters/203_triplet_learning_stocks"]
+	path = chapters/203_triplet_learning_stocks
+	url = git@github.com:suenot/203-triplet-learning-stocks.git
+[submodule "chapters/204_temporal_contrastive"]
+	path = chapters/204_temporal_contrastive
+	url = git@github.com:suenot/204-temporal-contrastive.git
+[submodule "chapters/205_cross_modal_contrastive"]
+	path = chapters/205_cross_modal_contrastive
+	url = git@github.com:suenot/205-cross-modal-contrastive.git
+[submodule "chapters/206_hard_negative_mining"]
+	path = chapters/206_hard_negative_mining
+	url = git@github.com:suenot/206-hard-negative-mining.git
+[submodule "chapters/207_contrastive_predictive_coding"]
+	path = chapters/207_contrastive_predictive_coding
+	url = git@github.com:suenot/207-contrastive-predictive-coding.git
+[submodule "chapters/208_infonce_trading"]
+	path = chapters/208_infonce_trading
+	url = git@github.com:suenot/208-infonce-trading.git
+[submodule "chapters/209_nt_xent_trading"]
+	path = chapters/209_nt_xent_trading
+	url = git@github.com:suenot/209-nt-xent-trading.git
+[submodule "chapters/210_supervised_contrastive"]
+	path = chapters/210_supervised_contrastive
+	url = git@github.com:suenot/210-supervised-contrastive.git
+[submodule "chapters/211_proto_contrastive"]
+	path = chapters/211_proto_contrastive
+	url = git@github.com:suenot/211-proto-contrastive.git
+[submodule "chapters/212_self_supervised_trading"]
+	path = chapters/212_self_supervised_trading
+	url = git@github.com:suenot/212-self-supervised-trading.git
+[submodule "chapters/213_masked_autoencoder_finance"]
+	path = chapters/213_masked_autoencoder_finance
+	url = git@github.com:suenot/213-masked-autoencoder-finance.git
+[submodule "chapters/214_self_supervised_ts_finance"]
+	path = chapters/214_self_supervised_ts_finance
+	url = git@github.com:suenot/214-self-supervised-ts-finance.git
+[submodule "chapters/215_clip_multimodal_trading"]
+	path = chapters/215_clip_multimodal_trading
+	url = git@github.com:suenot/215-clip-multimodal-trading.git
+[submodule "chapters/216_data_augmentation_trading"]
+	path = chapters/216_data_augmentation_trading
+	url = git@github.com:suenot/216-data-augmentation-trading.git
+[submodule "chapters/217_curriculum_learning_trading"]
+	path = chapters/217_curriculum_learning_trading
+	url = git@github.com:suenot/217-curriculum-learning-trading.git
+[submodule "chapters/218_active_learning_trading"]
+	path = chapters/218_active_learning_trading
+	url = git@github.com:suenot/218-active-learning-trading.git
+[submodule "chapters/219_lob_deep_learning"]
+	path = chapters/219_lob_deep_learning
+	url = git@github.com:suenot/219-lob-deep-learning.git
+[submodule "chapters/220_market_making_ml"]
+	path = chapters/220_market_making_ml
+	url = git@github.com:suenot/220-market-making-ml.git
+[submodule "chapters/221_order_flow_prediction"]
+	path = chapters/221_order_flow_prediction
+	url = git@github.com:suenot/221-order-flow-prediction.git
+[submodule "chapters/222_price_impact_modeling"]
+	path = chapters/222_price_impact_modeling
+	url = git@github.com:suenot/222-price-impact-modeling.git
+[submodule "chapters/223_tick_data_forecasting"]
+	path = chapters/223_tick_data_forecasting
+	url = git@github.com:suenot/223-tick-data-forecasting.git
+[submodule "chapters/224_trade_classification"]
+	path = chapters/224_trade_classification
+	url = git@github.com:suenot/224-trade-classification.git
+[submodule "chapters/225_quote_update_prediction"]
+	path = chapters/225_quote_update_prediction
+	url = git@github.com:suenot/225-quote-update-prediction.git
+[submodule "chapters/226_spread_modeling_ml"]
+	path = chapters/226_spread_modeling_ml
+	url = git@github.com:suenot/226-spread-modeling-ml.git
+[submodule "chapters/227_liquidity_prediction"]
+	path = chapters/227_liquidity_prediction
+	url = git@github.com:suenot/227-liquidity-prediction.git
+[submodule "chapters/228_microstructure_features"]
+	path = chapters/228_microstructure_features
+	url = git@github.com:suenot/228-microstructure-features.git
+[submodule "chapters/229_deeplob_forecasting"]
+	path = chapters/229_deeplob_forecasting
+	url = git@github.com:suenot/229-deeplob-forecasting.git
+[submodule "chapters/230_lobframe_benchmark"]
+	path = chapters/230_lobframe_benchmark
+	url = git@github.com:suenot/230-lobframe-benchmark.git
+[submodule "chapters/231_lit_transformer_lob"]
+	path = chapters/231_lit_transformer_lob
+	url = git@github.com:suenot/231-lit-transformer-lob.git
+[submodule "chapters/232_cnn_lob_prediction"]
+	path = chapters/232_cnn_lob_prediction
+	url = git@github.com:suenot/232-cnn-lob-prediction.git
+[submodule "chapters/233_lstm_lob_forecasting"]
+	path = chapters/233_lstm_lob_forecasting
+	url = git@github.com:suenot/233-lstm-lob-forecasting.git
+[submodule "chapters/234_attention_lob"]
+	path = chapters/234_attention_lob
+	url = git@github.com:suenot/234-attention-lob.git
+[submodule "chapters/235_gnn_lob"]
+	path = chapters/235_gnn_lob
+	url = git@github.com:suenot/235-gnn-lob.git
+[submodule "chapters/236_variational_lob"]
+	path = chapters/236_variational_lob
+	url = git@github.com:suenot/236-variational-lob.git
+[submodule "chapters/237_generative_lob"]
+	path = chapters/237_generative_lob
+	url = git@github.com:suenot/237-generative-lob.git
+[submodule "chapters/238_reinforcement_lob"]
+	path = chapters/238_reinforcement_lob
+	url = git@github.com:suenot/238-reinforcement-lob.git
+[submodule "chapters/239_td3_portfolio"]
+	path = chapters/239_td3_portfolio
+	url = git@github.com:suenot/239-td3-portfolio.git
+[submodule "chapters/240_sac_trading"]
+	path = chapters/240_sac_trading
+	url = git@github.com:suenot/240-sac-trading.git
+[submodule "chapters/241_ppo_portfolio"]
+	path = chapters/241_ppo_portfolio
+	url = git@github.com:suenot/241-ppo-portfolio.git
+[submodule "chapters/242_a2c_trading"]
+	path = chapters/242_a2c_trading
+	url = git@github.com:suenot/242-a2c-trading.git
+[submodule "chapters/243_ddpg_trading"]
+	path = chapters/243_ddpg_trading
+	url = git@github.com:suenot/243-ddpg-trading.git
+[submodule "chapters/244_dqn_portfolio"]
+	path = chapters/244_dqn_portfolio
+	url = git@github.com:suenot/244-dqn-portfolio.git
+[submodule "chapters/245_rainbow_dqn_trading"]
+	path = chapters/245_rainbow_dqn_trading
+	url = git@github.com:suenot/245-rainbow-dqn-trading.git
+[submodule "chapters/246_c51_distributional_rl"]
+	path = chapters/246_c51_distributional_rl
+	url = git@github.com:suenot/246-c51-distributional-rl.git
+[submodule "chapters/247_iqn_implicit_quantile"]
+	path = chapters/247_iqn_implicit_quantile
+	url = git@github.com:suenot/247-iqn-implicit-quantile.git
+[submodule "chapters/248_hierarchical_rl_trading"]
+	path = chapters/248_hierarchical_rl_trading
+	url = git@github.com:suenot/248-hierarchical-rl-trading.git
+[submodule "chapters/249_model_based_rl_trading"]
+	path = chapters/249_model_based_rl_trading
+	url = git@github.com:suenot/249-model-based-rl-trading.git
+[submodule "chapters/250_world_models_trading"]
+	path = chapters/250_world_models_trading
+	url = git@github.com:suenot/250-world-models-trading.git
+[submodule "chapters/251_dreamer_trading"]
+	path = chapters/251_dreamer_trading
+	url = git@github.com:suenot/251-dreamer-trading.git
+[submodule "chapters/252_muzero_trading"]
+	path = chapters/252_muzero_trading
+	url = git@github.com:suenot/252-muzero-trading.git
+[submodule "chapters/253_inverse_rl_trading"]
+	path = chapters/253_inverse_rl_trading
+	url = git@github.com:suenot/253-inverse-rl-trading.git
+[submodule "chapters/254_imitation_learning_trading"]
+	path = chapters/254_imitation_learning_trading
+	url = git@github.com:suenot/254-imitation-learning-trading.git
+[submodule "chapters/255_behavioral_cloning_trading"]
+	path = chapters/255_behavioral_cloning_trading
+	url = git@github.com:suenot/255-behavioral-cloning-trading.git
+[submodule "chapters/256_gail_trading"]
+	path = chapters/256_gail_trading
+	url = git@github.com:suenot/256-gail-trading.git
+[submodule "chapters/257_reward_shaping_trading"]
+	path = chapters/257_reward_shaping_trading
+	url = git@github.com:suenot/257-reward-shaping-trading.git
+[submodule "chapters/258_curiosity_driven_trading"]
+	path = chapters/258_curiosity_driven_trading
+	url = git@github.com:suenot/258-curiosity-driven-trading.git
+[submodule "chapters/259_monte_carlo_tree_search"]
+	path = chapters/259_monte_carlo_tree_search
+	url = git@github.com:suenot/259-monte-carlo-tree-search.git
+[submodule "chapters/260_planning_rl_trading"]
+	path = chapters/260_planning_rl_trading
+	url = git@github.com:suenot/260-planning-rl-trading.git
+[submodule "chapters/261_offline_rl_trading"]
+	path = chapters/261_offline_rl_trading
+	url = git@github.com:suenot/261-offline-rl-trading.git
+[submodule "chapters/262_conservative_q_learning"]
+	path = chapters/262_conservative_q_learning
+	url = git@github.com:suenot/262-conservative-q-learning.git
+[submodule "chapters/263_decision_transformer"]
+	path = chapters/263_decision_transformer
+	url = git@github.com:suenot/263-decision-transformer.git
+[submodule "chapters/264_trajectory_transformer"]
+	path = chapters/264_trajectory_transformer
+	url = git@github.com:suenot/264-trajectory-transformer.git
+[submodule "chapters/265_goal_conditioned_rl"]
+	path = chapters/265_goal_conditioned_rl
+	url = git@github.com:suenot/265-goal-conditioned-rl.git
+[submodule "chapters/266_option_framework_rl"]
+	path = chapters/266_option_framework_rl
+	url = git@github.com:suenot/266-option-framework-rl.git
+[submodule "chapters/267_population_based_training"]
+	path = chapters/267_population_based_training
+	url = git@github.com:suenot/267-population-based-training.git
+[submodule "chapters/268_multi_objective_rl_trading"]
+	path = chapters/268_multi_objective_rl_trading
+	url = git@github.com:suenot/268-multi-objective-rl-trading.git
+[submodule "chapters/269_bayesian_optimization_trading"]
+	path = chapters/269_bayesian_optimization_trading
+	url = git@github.com:suenot/269-bayesian-optimization-trading.git
+[submodule "chapters/270_gaussian_process_trading"]
+	path = chapters/270_gaussian_process_trading
+	url = git@github.com:suenot/270-gaussian-process-trading.git
+[submodule "chapters/271_uncertainty_quantification"]
+	path = chapters/271_uncertainty_quantification
+	url = git@github.com:suenot/271-uncertainty-quantification.git
+[submodule "chapters/272_ensemble_uncertainty"]
+	path = chapters/272_ensemble_uncertainty
+	url = git@github.com:suenot/272-ensemble-uncertainty.git
+[submodule "chapters/273_mc_dropout_trading"]
+	path = chapters/273_mc_dropout_trading
+	url = git@github.com:suenot/273-mc-dropout-trading.git
+[submodule "chapters/274_deep_ensembles_trading"]
+	path = chapters/274_deep_ensembles_trading
+	url = git@github.com:suenot/274-deep-ensembles-trading.git
+[submodule "chapters/275_bayesian_neural_network"]
+	path = chapters/275_bayesian_neural_network
+	url = git@github.com:suenot/275-bayesian-neural-network.git
+[submodule "chapters/276_variational_inference_trading"]
+	path = chapters/276_variational_inference_trading
+	url = git@github.com:suenot/276-variational-inference-trading.git
+[submodule "chapters/277_probabilistic_forecasting"]
+	path = chapters/277_probabilistic_forecasting
+	url = git@github.com:suenot/277-probabilistic-forecasting.git
+[submodule "chapters/278_prediction_intervals_trading"]
+	path = chapters/278_prediction_intervals_trading
+	url = git@github.com:suenot/278-prediction-intervals-trading.git
+[submodule "chapters/279_copula_models_finance"]
+	path = chapters/279_copula_models_finance
+	url = git@github.com:suenot/279-copula-models-finance.git
+[submodule "chapters/280_graph_neural_networks"]
+	path = chapters/280_graph_neural_networks
+	url = git@github.com:suenot/280-graph-neural-networks.git
+[submodule "chapters/281_graph_transformer_trading"]
+	path = chapters/281_graph_transformer_trading
+	url = git@github.com:suenot/281-graph-transformer-trading.git
+[submodule "chapters/282_equivariant_gnn_trading"]
+	path = chapters/282_equivariant_gnn_trading
+	url = git@github.com:suenot/282-equivariant-gnn-trading.git
+[submodule "chapters/283_message_passing_trading"]
+	path = chapters/283_message_passing_trading
+	url = git@github.com:suenot/283-message-passing-trading.git
+[submodule "chapters/284_graph_attention_trading"]
+	path = chapters/284_graph_attention_trading
+	url = git@github.com:suenot/284-graph-attention-trading.git
+[submodule "chapters/285_heterogeneous_gnn_trading"]
+	path = chapters/285_heterogeneous_gnn_trading
+	url = git@github.com:suenot/285-heterogeneous-gnn-trading.git
+[submodule "chapters/286_temporal_gnn_trading"]
+	path = chapters/286_temporal_gnn_trading
+	url = git@github.com:suenot/286-temporal-gnn-trading.git
+[submodule "chapters/287_dynamic_gnn_trading"]
+	path = chapters/287_dynamic_gnn_trading
+	url = git@github.com:suenot/287-dynamic-gnn-trading.git
+[submodule "chapters/288_graph_generation_trading"]
+	path = chapters/288_graph_generation_trading
+	url = git@github.com:suenot/288-graph-generation-trading.git
+[submodule "chapters/289_graph_pooling_trading"]
+	path = chapters/289_graph_pooling_trading
+	url = git@github.com:suenot/289-graph-pooling-trading.git
+[submodule "chapters/290_subgraph_mining_trading"]
+	path = chapters/290_subgraph_mining_trading
+	url = git@github.com:suenot/290-subgraph-mining-trading.git
+[submodule "chapters/291_wavenet_trading"]
+	path = chapters/291_wavenet_trading
+	url = git@github.com:suenot/291-wavenet-trading.git
+[submodule "chapters/292_tcn_trading"]
+	path = chapters/292_tcn_trading
+	url = git@github.com:suenot/292-tcn-trading.git
+[submodule "chapters/293_dilated_convolutions_trading"]
+	path = chapters/293_dilated_convolutions_trading
+	url = git@github.com:suenot/293-dilated-convolutions-trading.git
+[submodule "chapters/294_inception_time_trading"]
+	path = chapters/294_inception_time_trading
+	url = git@github.com:suenot/294-inception-time-trading.git
+[submodule "chapters/295_resnet_timeseries"]
+	path = chapters/295_resnet_timeseries
+	url = git@github.com:suenot/295-resnet-timeseries.git
+[submodule "chapters/296_densenet_trading"]
+	path = chapters/296_densenet_trading
+	url = git@github.com:suenot/296-densenet-trading.git
+[submodule "chapters/297_efficientnet_trading"]
+	path = chapters/297_efficientnet_trading
+	url = git@github.com:suenot/297-efficientnet-trading.git
+[submodule "chapters/298_convnext_trading"]
+	path = chapters/298_convnext_trading
+	url = git@github.com:suenot/298-convnext-trading.git
+[submodule "chapters/299_depthwise_separable_trading"]
+	path = chapters/299_depthwise_separable_trading
+	url = git@github.com:suenot/299-depthwise-separable-trading.git
+[submodule "chapters/300_squeeze_excitation_trading"]
+	path = chapters/300_squeeze_excitation_trading
+	url = git@github.com:suenot/300-squeeze-excitation-trading.git
+[submodule "chapters/301_fedavg_trading"]
+	path = chapters/301_fedavg_trading
+	url = git@github.com:suenot/301-fedavg-trading.git
+[submodule "chapters/302_fedprox_finance"]
+	path = chapters/302_fedprox_finance
+	url = git@github.com:suenot/302-fedprox-finance.git
+[submodule "chapters/303_secure_aggregation_trading"]
+	path = chapters/303_secure_aggregation_trading
+	url = git@github.com:suenot/303-secure-aggregation-trading.git
+[submodule "chapters/304_differential_privacy_trading"]
+	path = chapters/304_differential_privacy_trading
+	url = git@github.com:suenot/304-differential-privacy-trading.git
+[submodule "chapters/305_blockchain_fl_trading"]
+	path = chapters/305_blockchain_fl_trading
+	url = git@github.com:suenot/305-blockchain-fl-trading.git
+[submodule "chapters/306_personalized_fl_trading"]
+	path = chapters/306_personalized_fl_trading
+	url = git@github.com:suenot/306-personalized-fl-trading.git
+[submodule "chapters/307_hierarchical_fl_trading"]
+	path = chapters/307_hierarchical_fl_trading
+	url = git@github.com:suenot/307-hierarchical-fl-trading.git
+[submodule "chapters/308_asynchronous_fl_trading"]
+	path = chapters/308_asynchronous_fl_trading
+	url = git@github.com:suenot/308-asynchronous-fl-trading.git
+[submodule "chapters/309_communication_efficient_fl"]
+	path = chapters/309_communication_efficient_fl
+	url = git@github.com:suenot/309-communication-efficient-fl.git
+[submodule "chapters/310_fl_gradient_compression"]
+	path = chapters/310_fl_gradient_compression
+	url = git@github.com:suenot/310-fl-gradient-compression.git
+[submodule "chapters/311_byzantine_robust_fl"]
+	path = chapters/311_byzantine_robust_fl
+	url = git@github.com:suenot/311-byzantine-robust-fl.git
+[submodule "chapters/312_fair_fl_trading"]
+	path = chapters/312_fair_fl_trading
+	url = git@github.com:suenot/312-fair-fl-trading.git
+[submodule "chapters/313_knowledge_distillation_fl"]
+	path = chapters/313_knowledge_distillation_fl
+	url = git@github.com:suenot/313-knowledge-distillation-fl.git
+[submodule "chapters/314_fl_cross_silo_trading"]
+	path = chapters/314_fl_cross_silo_trading
+	url = git@github.com:suenot/314-fl-cross-silo-trading.git
+[submodule "chapters/315_fl_edge_trading"]
+	path = chapters/315_fl_edge_trading
+	url = git@github.com:suenot/315-fl-edge-trading.git
+[submodule "chapters/316_vqe_portfolio_optimization"]
+	path = chapters/316_vqe_portfolio_optimization
+	url = git@github.com:suenot/316-vqe-portfolio-optimization.git
+[submodule "chapters/317_qaoa_trading"]
+	path = chapters/317_qaoa_trading
+	url = git@github.com:suenot/317-qaoa-trading.git
+[submodule "chapters/318_quantum_gan_finance"]
+	path = chapters/318_quantum_gan_finance
+	url = git@github.com:suenot/318-quantum-gan-finance.git
+[submodule "chapters/319_quantum_kernel_trading"]
+	path = chapters/319_quantum_kernel_trading
+	url = git@github.com:suenot/319-quantum-kernel-trading.git
+[submodule "chapters/320_quantum_svm_trading"]
+	path = chapters/320_quantum_svm_trading
+	url = git@github.com:suenot/320-quantum-svm-trading.git
+[submodule "chapters/321_variational_quantum_classifier"]
+	path = chapters/321_variational_quantum_classifier
+	url = git@github.com:suenot/321-variational-quantum-classifier.git
+[submodule "chapters/322_quantum_boltzmann_trading"]
+	path = chapters/322_quantum_boltzmann_trading
+	url = git@github.com:suenot/322-quantum-boltzmann-trading.git
+[submodule "chapters/323_grover_search_trading"]
+	path = chapters/323_grover_search_trading
+	url = git@github.com:suenot/323-grover-search-trading.git
+[submodule "chapters/324_hhl_algorithm_finance"]
+	path = chapters/324_hhl_algorithm_finance
+	url = git@github.com:suenot/324-hhl-algorithm-finance.git
+[submodule "chapters/325_quantum_feature_map"]
+	path = chapters/325_quantum_feature_map
+	url = git@github.com:suenot/325-quantum-feature-map.git
+[submodule "chapters/326_quantum_error_correction"]
+	path = chapters/326_quantum_error_correction
+	url = git@github.com:suenot/326-quantum-error-correction.git
+[submodule "chapters/327_hybrid_quantum_classical"]
+	path = chapters/327_hybrid_quantum_classical
+	url = git@github.com:suenot/327-hybrid-quantum-classical.git
+[submodule "chapters/328_nisq_trading_algorithms"]
+	path = chapters/328_nisq_trading_algorithms
+	url = git@github.com:suenot/328-nisq-trading-algorithms.git
+[submodule "chapters/329_quantum_annealing_trading"]
+	path = chapters/329_quantum_annealing_trading
+	url = git@github.com:suenot/329-quantum-annealing-trading.git
+[submodule "chapters/330_tensor_network_trading"]
+	path = chapters/330_tensor_network_trading
+	url = git@github.com:suenot/330-tensor-network-trading.git
+[submodule "chapters/331_knowledge_distillation_trading"]
+	path = chapters/331_knowledge_distillation_trading
+	url = git@github.com:suenot/331-knowledge-distillation-trading.git
+[submodule "chapters/332_model_compression_finance"]
+	path = chapters/332_model_compression_finance
+	url = git@github.com:suenot/332-model-compression-finance.git
+[submodule "chapters/333_pruning_trading_models"]
+	path = chapters/333_pruning_trading_models
+	url = git@github.com:suenot/333-pruning-trading-models.git
+[submodule "chapters/334_quantization_trading_models"]
+	path = chapters/334_quantization_trading_models
+	url = git@github.com:suenot/334-quantization-trading-models.git
+[submodule "chapters/335_lottery_ticket_trading"]
+	path = chapters/335_lottery_ticket_trading
+	url = git@github.com:suenot/335-lottery-ticket-trading.git
+[submodule "chapters/336_self_distillation_trading"]
+	path = chapters/336_self_distillation_trading
+	url = git@github.com:suenot/336-self-distillation-trading.git
+[submodule "chapters/337_teacher_student_trading"]
+	path = chapters/337_teacher_student_trading
+	url = git@github.com:suenot/337-teacher-student-trading.git
+[submodule "chapters/338_progressive_distillation"]
+	path = chapters/338_progressive_distillation
+	url = git@github.com:suenot/338-progressive-distillation.git
+[submodule "chapters/339_data_distillation_trading"]
+	path = chapters/339_data_distillation_trading
+	url = git@github.com:suenot/339-data-distillation-trading.git
+[submodule "chapters/340_feature_distillation"]
+	path = chapters/340_feature_distillation
+	url = git@github.com:suenot/340-feature-distillation.git
+[submodule "chapters/341_nas_for_trading"]
+	path = chapters/341_nas_for_trading
+	url = git@github.com:suenot/341-nas-for-trading.git
+[submodule "chapters/342_automl_finance"]
+	path = chapters/342_automl_finance
+	url = git@github.com:suenot/342-automl-finance.git
+[submodule "chapters/343_hyperparameter_optimization"]
+	path = chapters/343_hyperparameter_optimization
+	url = git@github.com:suenot/343-hyperparameter-optimization.git
+[submodule "chapters/344_evolutionary_nas_trading"]
+	path = chapters/344_evolutionary_nas_trading
+	url = git@github.com:suenot/344-evolutionary-nas-trading.git
+[submodule "chapters/345_differentiable_nas"]
+	path = chapters/345_differentiable_nas
+	url = git@github.com:suenot/345-differentiable-nas.git
+[submodule "chapters/346_one_shot_nas"]
+	path = chapters/346_one_shot_nas
+	url = git@github.com:suenot/346-one-shot-nas.git
+[submodule "chapters/347_hardware_aware_nas"]
+	path = chapters/347_hardware_aware_nas
+	url = git@github.com:suenot/347-hardware-aware-nas.git
+[submodule "chapters/348_multi_objective_nas"]
+	path = chapters/348_multi_objective_nas
+	url = git@github.com:suenot/348-multi-objective-nas.git
+[submodule "chapters/349_darts_trading"]
+	path = chapters/349_darts_trading
+	url = git@github.com:suenot/349-darts-trading.git
+[submodule "chapters/350_examm_trading"]
+	path = chapters/350_examm_trading
+	url = git@github.com:suenot/350-examm-trading.git
+[submodule "chapters/351_adversarial_training_trading"]
+	path = chapters/351_adversarial_training_trading
+	url = git@github.com:suenot/351-adversarial-training-trading.git
+[submodule "chapters/352_adversarial_attack_detection"]
+	path = chapters/352_adversarial_attack_detection
+	url = git@github.com:suenot/352-adversarial-attack-detection.git
+[submodule "chapters/353_robust_trading_models"]
+	path = chapters/353_robust_trading_models
+	url = git@github.com:suenot/353-robust-trading-models.git
+[submodule "chapters/354_input_perturbation_defense"]
+	path = chapters/354_input_perturbation_defense
+	url = git@github.com:suenot/354-input-perturbation-defense.git
+[submodule "chapters/355_certified_robustness"]
+	path = chapters/355_certified_robustness
+	url = git@github.com:suenot/355-certified-robustness.git
+[submodule "chapters/356_adversarial_examples_finance"]
+	path = chapters/356_adversarial_examples_finance
+	url = git@github.com:suenot/356-adversarial-examples-finance.git
+[submodule "chapters/357_evasion_attacks_trading"]
+	path = chapters/357_evasion_attacks_trading
+	url = git@github.com:suenot/357-evasion-attacks-trading.git
+[submodule "chapters/358_poisoning_attacks_trading"]
+	path = chapters/358_poisoning_attacks_trading
+	url = git@github.com:suenot/358-poisoning-attacks-trading.git
+[submodule "chapters/359_model_inversion_finance"]
+	path = chapters/359_model_inversion_finance
+	url = git@github.com:suenot/359-model-inversion-finance.git
+[submodule "chapters/360_membership_inference"]
+	path = chapters/360_membership_inference
+	url = git@github.com:suenot/360-membership-inference.git
+[submodule "chapters/361_koopman_operator_trading"]
+	path = chapters/361_koopman_operator_trading
+	url = git@github.com:suenot/361-koopman-operator-trading.git
+[submodule "chapters/362_reservoir_computing_trading"]
+	path = chapters/362_reservoir_computing_trading
+	url = git@github.com:suenot/362-reservoir-computing-trading.git
+[submodule "chapters/363_liquid_neural_networks_trading"]
+	path = chapters/363_liquid_neural_networks_trading
+	url = git@github.com:suenot/363-liquid-neural-networks-trading.git
+[submodule "chapters/364_neuromorphic_trading"]
+	path = chapters/364_neuromorphic_trading
+	url = git@github.com:suenot/364-neuromorphic-trading.git
+[submodule "chapters/365_foundation_models_trading"]
+	path = chapters/365_foundation_models_trading
+	url = git@github.com:suenot/365-foundation-models-trading.git
+[submodule "website"]
+	path = website
+	url = git@github.com:suenot/the-algotrading-book-website.git
+[submodule "chapters/048_memory_augmented_transformers"]
+	path = chapters/048_memory_augmented_transformers
+	url = git@github.com:suenot/048-memory-augmented-transformers.git
