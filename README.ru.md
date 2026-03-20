@@ -27,30 +27,30 @@
 
 | № | Глава |
 |---|-------|
-| 1 | [Алгоритмический интеллект: введение в ML для крипто](chapters/001_algorithmic_intelligence_intro/) |
-| 2 | [Конвейер данных крипторынка](chapters/002_crypto_market_data_pipeline/) |
-| 3 | [Нестандартные крипто-сигналы](chapters/003_unconventional_crypto_signals/) |
-| 4 | [Инженерия признаков для крипто](chapters/004_crypto_feature_engineering/) |
-| 5 | [Риск криптопортфеля](chapters/005_crypto_portfolio_risk/) |
-| 6 | [Обучение ML на финансовых данных](chapters/006_ml_training_financial_data/) |
-| 7 | [Линейные методы для крипто](chapters/007_linear_methods_crypto/) |
-| 8 | [Конвейер симуляции стратегий](chapters/008_strategy_simulation_pipeline/) |
-| 9 | [Временная динамика в крипто](chapters/009_temporal_dynamics_crypto/) |
-| 10 | [Байесовские крипто-стратегии](chapters/010_bayesian_crypto_strategies/) |
-| 11 | [Древесные модели для крипто](chapters/011_tree_models_crypto/) |
-| 12 | [Градиентный бустинг для крипто](chapters/012_gradient_boosting_crypto/) |
-| 13 | [Обнаружение структуры без учителя](chapters/013_unsupervised_crypto_structure/) |
-| 14 | [Обработка текстов крипторынка](chapters/014_crypto_text_processing/) |
-| 15 | [Тематическое моделирование для крипто](chapters/015_crypto_topic_modeling/) |
-| 16 | [Эмбеддинги для крипто](chapters/016_crypto_embeddings/) |
-| 17 | [Основы нейронных сетей для крипто](chapters/017_neural_net_foundations_crypto/) |
-| 18 | [CNN для паттернов крипто](chapters/018_cnn_crypto_patterns/) |
-| 19 | [RNN для последовательностей крипто](chapters/019_rnn_sequential_crypto/) |
-| 20 | [Автоэнкодеры для структуры крипто](chapters/020_autoencoders_crypto_structure/) |
-| 21 | [GAN для синтетических крипто-данных](chapters/021_gans_synthetic_crypto/) |
-| 22 | [RL агент для торговли крипто](chapters/022_rl_crypto_trading_agent/) |
-| 23 | [Производственное развёртывание на Bybit](chapters/023_production_deployment_bybit/) |
-| 24 | [Сборник крипто-сигналов](chapters/024_crypto_signal_compendium/) |
+| 1 | [Алгоритмический интеллект: введение в ML для крипто](https://github.com/suenot/001-algorithmic-intelligence-intro) |
+| 2 | [Конвейер данных крипторынка](https://github.com/suenot/002-crypto-market-data-pipeline) |
+| 3 | [Нестандартные крипто-сигналы](https://github.com/suenot/003-unconventional-crypto-signals) |
+| 4 | [Инженерия признаков для крипто](https://github.com/suenot/004-crypto-feature-engineering) |
+| 5 | [Риск криптопортфеля](https://github.com/suenot/005-crypto-portfolio-risk) |
+| 6 | [Обучение ML на финансовых данных](https://github.com/suenot/006-ml-training-financial-data) |
+| 7 | [Линейные методы для крипто](https://github.com/suenot/007-linear-methods-crypto) |
+| 8 | [Конвейер симуляции стратегий](https://github.com/suenot/008-strategy-simulation-pipeline) |
+| 9 | [Временная динамика в крипто](https://github.com/suenot/009-temporal-dynamics-crypto) |
+| 10 | [Байесовские крипто-стратегии](https://github.com/suenot/010-bayesian-crypto-strategies) |
+| 11 | [Древесные модели для крипто](https://github.com/suenot/011-tree-models-crypto) |
+| 12 | [Градиентный бустинг для крипто](https://github.com/suenot/012-gradient-boosting-crypto) |
+| 13 | [Обнаружение структуры без учителя](https://github.com/suenot/013-unsupervised-crypto-structure) |
+| 14 | [Обработка текстов крипторынка](https://github.com/suenot/014-crypto-text-processing) |
+| 15 | [Тематическое моделирование для крипто](https://github.com/suenot/015-crypto-topic-modeling) |
+| 16 | [Эмбеддинги для крипто](https://github.com/suenot/016-crypto-embeddings) |
+| 17 | [Основы нейронных сетей для крипто](https://github.com/suenot/017-neural-net-foundations-crypto) |
+| 18 | [CNN для паттернов крипто](https://github.com/suenot/018-cnn-crypto-patterns) |
+| 19 | [RNN для последовательностей крипто](https://github.com/suenot/019-rnn-sequential-crypto) |
+| 20 | [Автоэнкодеры для структуры крипто](https://github.com/suenot/020-autoencoders-crypto-structure) |
+| 21 | [GAN для синтетических крипто-данных](https://github.com/suenot/021-gans-synthetic-crypto) |
+| 22 | [RL агент для торговли крипто](https://github.com/suenot/022-rl-crypto-trading-agent) |
+| 23 | [Производственное развёртывание на Bybit](https://github.com/suenot/023-production-deployment-bybit) |
+| 24 | [Сборник крипто-сигналов](https://github.com/suenot/024-crypto-signal-compendium) |
 
 ---
 
@@ -58,20 +58,20 @@
 
 | № | Глава |
 |---|-------|
-| 25 | [Обнаружение режимов рынка с HMM](chapters/025_regime_detection_hmm/) |
-| 26 | [Прогнозирование сюрпризов прибыли](chapters/026_earnings_surprise_prediction/) |
-| 27 | [Дисбаланс потока ордеров](chapters/027_order_flow_imbalance/) |
-| 28 | [Оптимальное исполнение с RL](chapters/028_optimal_execution_rl/) |
-| 29 | [Межрыночный моментум](chapters/029_cross_asset_momentum/) |
-| 30 | [Обнаружение аномалий](chapters/030_anomaly_detection/) |
-| 31 | [Онлайн-обучение и адаптивные стратегии](chapters/031_online_learning_adaptive/) |
-| 32 | [Мультиагентное обучение с подкреплением](chapters/032_multi_agent_rl/) |
-| 33 | [Арбитраж на крипто-DEX](chapters/033_crypto_dex_arbitrage/) |
-| 34 | [Слияние сентимента и моментума](chapters/034_sentiment_momentum_fusion/) |
-| 35 | [Статистический арбитраж и парная торговля](chapters/035_statistical_arbitrage_pairs/) |
-| 36 | [Конформное предсказание для трейдинга](chapters/036_conformal_prediction_trading/) |
-| 37 | [ML для греков опционов](chapters/037_options_ml_greeks/) |
-| 38 | [Реконструкция LOB с помощью ML](chapters/038_lob_reconstruction_ml/) |
+| 25 | [Обнаружение режимов рынка с HMM](https://github.com/suenot/025-regime-detection-hmm) |
+| 26 | [Прогнозирование сюрпризов прибыли](https://github.com/suenot/026-earnings-surprise-prediction) |
+| 27 | [Дисбаланс потока ордеров](https://github.com/suenot/027-order-flow-imbalance) |
+| 28 | [Оптимальное исполнение с RL](https://github.com/suenot/028-optimal-execution-rl) |
+| 29 | [Межрыночный моментум](https://github.com/suenot/029-cross-asset-momentum) |
+| 30 | [Обнаружение аномалий](https://github.com/suenot/030-anomaly-detection) |
+| 31 | [Онлайн-обучение и адаптивные стратегии](https://github.com/suenot/031-online-learning-adaptive) |
+| 32 | [Мультиагентное обучение с подкреплением](https://github.com/suenot/032-multi-agent-rl) |
+| 33 | [Арбитраж на крипто-DEX](https://github.com/suenot/033-crypto-dex-arbitrage) |
+| 34 | [Слияние сентимента и моментума](https://github.com/suenot/034-sentiment-momentum-fusion) |
+| 35 | [Статистический арбитраж и парная торговля](https://github.com/suenot/035-statistical-arbitrage-pairs) |
+| 36 | [Конформное предсказание для трейдинга](https://github.com/suenot/036-conformal-prediction-trading) |
+| 37 | [ML для греков опционов](https://github.com/suenot/037-options-ml-greeks) |
+| 38 | [Реконструкция LOB с помощью ML](https://github.com/suenot/038-lob-reconstruction-ml) |
 
 ---
 
@@ -79,26 +79,26 @@
 
 | № | Глава |
 |---|-------|
-| 39 | [Temporal Fusion Transformers](chapters/039_temporal_fusion_transformers/) |
-| 40 | [Трансформеры высшего порядка](chapters/040_higher_order_transformers/) |
-| 41 | [Stockformer: многомерное прогнозирование](chapters/041_stockformer_multivariate/) |
-| 42 | [Разреженное внимание Probsparse](chapters/042_probsparse_attention/) |
-| 43 | [Глубокий свёрточный трансформер](chapters/043_deep_convolutional_transformer/) |
-| 44 | [Сети временного внимания](chapters/044_temporal_attention_networks/) |
-| 45 | [Перекрёстное внимание для мультиактивов](chapters/045_cross_attention_multi_asset/) |
-| 46 | [Позиционное кодирование для временных рядов](chapters/046_positional_encoding_timeseries/) |
-| 47 | [Многомасштабное внимание](chapters/047_multi_scale_attention/) |
-| 48 | [Трансформеры с дополненной памятью](chapters/048_memory_augmented_transformers/) |
-| 49 | [Linformer для длинных последовательностей](chapters/049_linformer_long_sequences/) |
-| 50 | [Performer: эффективное внимание](chapters/050_performer_efficient_attention/) |
-| 51 | [BigBird: разреженное внимание](chapters/051_bigbird_sparse_attention/) |
-| 52 | [Reformer: LSH-внимание](chapters/052_reformer_lsh_attention/) |
-| 53 | [FNet: внимание через Фурье](chapters/053_fnet_fourier_transform/) |
-| 54 | [Nyströmformer для трейдинга](chapters/054_nystromformer_trading/) |
-| 55 | [Longformer для финансовых текстов](chapters/055_longformer_financial/) |
-| 56 | [Flash Attention для трейдинга](chapters/056_flash_attention_trading/) |
-| 57 | [Grouped Query Attention](chapters/057_grouped_query_attention/) |
-| 58 | [Оптимизация KV-кэша](chapters/058_kv_cache_optimization/) |
+| 39 | [Temporal Fusion Transformers](https://github.com/suenot/039-temporal-fusion-transformers) |
+| 40 | [Трансформеры высшего порядка](https://github.com/suenot/040-higher-order-transformers) |
+| 41 | [Stockformer: многомерное прогнозирование](https://github.com/suenot/041-stockformer-multivariate) |
+| 42 | [Разреженное внимание Probsparse](https://github.com/suenot/042-probsparse-attention) |
+| 43 | [Глубокий свёрточный трансформер](https://github.com/suenot/043-deep-convolutional-transformer) |
+| 44 | [Сети временного внимания](https://github.com/suenot/044-temporal-attention-networks) |
+| 45 | [Перекрёстное внимание для мультиактивов](https://github.com/suenot/045-cross-attention-multi-asset) |
+| 46 | [Позиционное кодирование для временных рядов](https://github.com/suenot/046-positional-encoding-timeseries) |
+| 47 | [Многомасштабное внимание](https://github.com/suenot/047-multi-scale-attention) |
+| 48 | [Трансформеры с дополненной памятью](https://github.com/suenot/048-memory-augmented-transformers) |
+| 49 | [Linformer для длинных последовательностей](https://github.com/suenot/049-linformer-long-sequences) |
+| 50 | [Performer: эффективное внимание](https://github.com/suenot/050-performer-efficient-attention) |
+| 51 | [BigBird: разреженное внимание](https://github.com/suenot/051-bigbird-sparse-attention) |
+| 52 | [Reformer: LSH-внимание](https://github.com/suenot/052-reformer-lsh-attention) |
+| 53 | [FNet: внимание через Фурье](https://github.com/suenot/053-fnet-fourier-transform) |
+| 54 | [Nyströmformer для трейдинга](https://github.com/suenot/054-nystromformer-trading) |
+| 55 | [Longformer для финансовых текстов](https://github.com/suenot/055-longformer-financial) |
+| 56 | [Flash Attention для трейдинга](https://github.com/suenot/056-flash-attention-trading) |
+| 57 | [Grouped Query Attention](https://github.com/suenot/057-grouped-query-attention) |
+| 58 | [Оптимизация KV-кэша](https://github.com/suenot/058-kv-cache-optimization) |
 
 ---
 
@@ -106,26 +106,26 @@
 
 | № | Глава |
 |---|-------|
-| 59 | [FinGPT: финансовая LLM](chapters/059_fingpt_financial_llm/) |
-| 60 | [BloombergGPT для трейдинга](chapters/060_bloomberggpt_trading/) |
-| 61 | [LLM для поиска альфы](chapters/061_llm_alpha_mining/) |
-| 62 | [Мультиагентная LLM-торговля](chapters/062_multi_agent_llm_trading/) |
-| 63 | [RAG для трейдинга](chapters/063_rag_for_trading/) |
-| 64 | [Цепочка рассуждений в трейдинге](chapters/064_chain_of_thought_trading/) |
-| 65 | [Анализ сентимента с LLM](chapters/065_llm_sentiment_analysis/) |
-| 66 | [LLM для интерпретации новостей](chapters/066_llm_news_interpretation/) |
-| 67 | [LLM для анализа звонков о прибыли](chapters/067_llm_earnings_call_analysis/) |
-| 68 | [Тонкая настройка LLM для финансов](chapters/068_fine_tuning_llm_finance/) |
-| 69 | [Инжиниринг промптов для трейдинга](chapters/069_prompt_engineering_trading/) |
-| 70 | [LLM для симуляции рынка](chapters/070_llm_market_simulation/) |
-| 71 | [LLM для оценки рисков](chapters/071_llm_risk_assessment/) |
-| 72 | [LLM для построения портфеля](chapters/072_llm_portfolio_construction/) |
-| 73 | [LLM для поиска факторов](chapters/073_llm_factor_discovery/) |
-| 74 | [LLM для обнаружения аномалий](chapters/074_llm_anomaly_detection/) |
-| 75 | [LLM для классификации режимов](chapters/075_llm_regime_classification/) |
-| 76 | [LLM для исполнения сделок](chapters/076_llm_trade_execution/) |
-| 77 | [LLM-ассистент бэктестинга](chapters/077_llm_backtesting_assistant/) |
-| 78 | [LLM для проверки соответствия](chapters/078_llm_compliance_check/) |
+| 59 | [FinGPT: финансовая LLM](https://github.com/suenot/059-fingpt-financial-llm) |
+| 60 | [BloombergGPT для трейдинга](https://github.com/suenot/060-bloomberggpt-trading) |
+| 61 | [LLM для поиска альфы](https://github.com/suenot/061-llm-alpha-mining) |
+| 62 | [Мультиагентная LLM-торговля](https://github.com/suenot/062-multi-agent-llm-trading) |
+| 63 | [RAG для трейдинга](https://github.com/suenot/063-rag-for-trading) |
+| 64 | [Цепочка рассуждений в трейдинге](https://github.com/suenot/064-chain-of-thought-trading) |
+| 65 | [Анализ сентимента с LLM](https://github.com/suenot/065-llm-sentiment-analysis) |
+| 66 | [LLM для интерпретации новостей](https://github.com/suenot/066-llm-news-interpretation) |
+| 67 | [LLM для анализа звонков о прибыли](https://github.com/suenot/067-llm-earnings-call-analysis) |
+| 68 | [Тонкая настройка LLM для финансов](https://github.com/suenot/068-fine-tuning-llm-finance) |
+| 69 | [Инжиниринг промптов для трейдинга](https://github.com/suenot/069-prompt-engineering-trading) |
+| 70 | [LLM для симуляции рынка](https://github.com/suenot/070-llm-market-simulation) |
+| 71 | [LLM для оценки рисков](https://github.com/suenot/071-llm-risk-assessment) |
+| 72 | [LLM для построения портфеля](https://github.com/suenot/072-llm-portfolio-construction) |
+| 73 | [LLM для поиска факторов](https://github.com/suenot/073-llm-factor-discovery) |
+| 74 | [LLM для обнаружения аномалий](https://github.com/suenot/074-llm-anomaly-detection) |
+| 75 | [LLM для классификации режимов](https://github.com/suenot/075-llm-regime-classification) |
+| 76 | [LLM для исполнения сделок](https://github.com/suenot/076-llm-trade-execution) |
+| 77 | [LLM-ассистент бэктестинга](https://github.com/suenot/077-llm-backtesting-assistant) |
+| 78 | [LLM для проверки соответствия](https://github.com/suenot/078-llm-compliance-check) |
 
 ---
 
@@ -133,29 +133,29 @@
 
 | № | Глава |
 |---|-------|
-| 79 | [FinBERT для сентимента](chapters/079_finbert_sentiment/) |
-| 80 | [BERT для финансового NLP](chapters/080_bert_financial_nlp/) |
-| 81 | [RoBERTa для трейдинга](chapters/081_roberta_trading/) |
-| 82 | [XLNet для финансов](chapters/082_xlnet_finance/) |
-| 83 | [ALBERT для трейдинга](chapters/083_albert_trading/) |
-| 84 | [ELECTRA для финансов](chapters/084_electra_finance/) |
-| 85 | [DeBERTa для трейдинга](chapters/085_deberta_trading/) |
-| 86 | [Реферирование финансовых документов](chapters/086_financial_document_summarization/) |
-| 87 | [Кросс-языковой NLP для финансов](chapters/087_cross_lingual_finance_nlp/) |
-| 88 | [GPT для финансового анализа](chapters/088_gpt_financial_analysis/) |
-| 89 | [Распознавание именованных сущностей](chapters/089_named_entity_recognition_finance/) |
-| 90 | [Извлечение отношений для финансов](chapters/090_relation_extraction_finance/) |
-| 91 | [Классификация документов в финансах](chapters/091_document_classification_finance/) |
-| 92 | [Реферирование текстов в финансах](chapters/092_text_summarization_finance/) |
-| 93 | [Ответы на вопросы в финансах](chapters/093_question_answering_finance/) |
-| 94 | [Аспектный сентимент в финансах](chapters/094_aspect_sentiment_finance/) |
-| 95 | [Извлечение событий для трейдинга](chapters/095_event_extraction_trading/) |
-| 96 | [Временные рассуждения в финансах](chapters/096_temporal_reasoning_finance/) |
-| 97 | [Мультимодальный NLP для трейдинга](chapters/097_multimodal_nlp_trading/) |
-| 98 | [Граф знаний для трейдинга](chapters/098_knowledge_graph_trading/) |
-| 99 | [Доменно-адаптивное предобучение](chapters/099_domain_adaptive_pretraining/) |
-| 100 | [Инструкционная настройка для финансов](chapters/100_instruction_tuning_finance/) |
-| 101 | [T5 предобучение для финансов](chapters/101_t5_pretraining_finance/) |
+| 79 | [FinBERT для сентимента](https://github.com/suenot/079-finbert-sentiment) |
+| 80 | [BERT для финансового NLP](https://github.com/suenot/080-bert-financial-nlp) |
+| 81 | [RoBERTa для трейдинга](https://github.com/suenot/081-roberta-trading) |
+| 82 | [XLNet для финансов](https://github.com/suenot/082-xlnet-finance) |
+| 83 | [ALBERT для трейдинга](https://github.com/suenot/083-albert-trading) |
+| 84 | [ELECTRA для финансов](https://github.com/suenot/084-electra-finance) |
+| 85 | [DeBERTa для трейдинга](https://github.com/suenot/085-deberta-trading) |
+| 86 | [Реферирование финансовых документов](https://github.com/suenot/086-financial-document-summarization) |
+| 87 | [Кросс-языковой NLP для финансов](https://github.com/suenot/087-cross-lingual-finance-nlp) |
+| 88 | [GPT для финансового анализа](https://github.com/suenot/088-gpt-financial-analysis) |
+| 89 | [Распознавание именованных сущностей](https://github.com/suenot/089-named-entity-recognition-finance) |
+| 90 | [Извлечение отношений для финансов](https://github.com/suenot/090-relation-extraction-finance) |
+| 91 | [Классификация документов в финансах](https://github.com/suenot/091-document-classification-finance) |
+| 92 | [Реферирование текстов в финансах](https://github.com/suenot/092-text-summarization-finance) |
+| 93 | [Ответы на вопросы в финансах](https://github.com/suenot/093-question-answering-finance) |
+| 94 | [Аспектный сентимент в финансах](https://github.com/suenot/094-aspect-sentiment-finance) |
+| 95 | [Извлечение событий для трейдинга](https://github.com/suenot/095-event-extraction-trading) |
+| 96 | [Временные рассуждения в финансах](https://github.com/suenot/096-temporal-reasoning-finance) |
+| 97 | [Мультимодальный NLP для трейдинга](https://github.com/suenot/097-multimodal-nlp-trading) |
+| 98 | [Граф знаний для трейдинга](https://github.com/suenot/098-knowledge-graph-trading) |
+| 99 | [Доменно-адаптивное предобучение](https://github.com/suenot/099-domain-adaptive-pretraining) |
+| 100 | [Инструкционная настройка для финансов](https://github.com/suenot/100-instruction-tuning-finance) |
+| 101 | [T5 предобучение для финансов](https://github.com/suenot/101-t5-pretraining-finance) |
 
 ---
 
@@ -163,16 +163,16 @@
 
 | № | Глава |
 |---|-------|
-| 102 | [MAML для трейдинга](chapters/102_maml_for_trading/) |
-| 103 | [Алгоритм Reptile для трейдинга](chapters/103_reptile_algorithm_trading/) |
-| 104 | [Прототипные сети для финансов](chapters/104_prototypical_networks_finance/) |
-| 105 | [Сети сопоставления для финансов](chapters/105_matching_networks_finance/) |
-| 106 | [Zero-Shot трейдинг](chapters/106_zero_shot_trading/) |
-| 107 | [Few-Shot прогнозирование рынка](chapters/107_few_shot_market_prediction/) |
-| 108 | [Задачно-агностический трейдинг](chapters/108_task_agnostic_trading/) |
-| 109 | [Мета-RL для трейдинга](chapters/109_meta_rl_trading/) |
-| 110 | [Непрерывное мета-обучение](chapters/110_continual_meta_learning/) |
-| 111 | [Оптимизация мета-градиентов](chapters/111_meta_gradient_optimization/) |
+| 102 | [MAML для трейдинга](https://github.com/suenot/102-maml-for-trading) |
+| 103 | [Алгоритм Reptile для трейдинга](https://github.com/suenot/103-reptile-algorithm-trading) |
+| 104 | [Прототипные сети для финансов](https://github.com/suenot/104-prototypical-networks-finance) |
+| 105 | [Сети сопоставления для финансов](https://github.com/suenot/105-matching-networks-finance) |
+| 106 | [Zero-Shot трейдинг](https://github.com/suenot/106-zero-shot-trading) |
+| 107 | [Few-Shot прогнозирование рынка](https://github.com/suenot/107-few-shot-market-prediction) |
+| 108 | [Задачно-агностический трейдинг](https://github.com/suenot/108-task-agnostic-trading) |
+| 109 | [Мета-RL для трейдинга](https://github.com/suenot/109-meta-rl-trading) |
+| 110 | [Непрерывное мета-обучение](https://github.com/suenot/110-continual-meta-learning) |
+| 111 | [Оптимизация мета-градиентов](https://github.com/suenot/111-meta-gradient-optimization) |
 
 ---
 
@@ -180,11 +180,11 @@
 
 | № | Глава |
 |---|-------|
-| 112 | [Трансферное обучение для трейдинга](chapters/112_transfer_learning_trading/) |
-| 113 | [Доменная адаптация для финансов](chapters/113_domain_adaptation_finance/) |
-| 114 | [Многозадачное обучение для трейдинга](chapters/114_multi_task_learning_trading/) |
-| 115 | [QuantNet: трансфер для квантов](chapters/115_quantnet_transfer_trading/) |
-| 116 | [Мета-прогнозирование волатильности](chapters/116_meta_volatility_prediction/) |
+| 112 | [Трансферное обучение для трейдинга](https://github.com/suenot/112-transfer-learning-trading) |
+| 113 | [Доменная адаптация для финансов](https://github.com/suenot/113-domain-adaptation-finance) |
+| 114 | [Многозадачное обучение для трейдинга](https://github.com/suenot/114-multi-task-learning-trading) |
+| 115 | [QuantNet: трансфер для квантов](https://github.com/suenot/115-quantnet-transfer-trading) |
+| 116 | [Мета-прогнозирование волатильности](https://github.com/suenot/116-meta-volatility-prediction) |
 
 ---
 
@@ -192,21 +192,21 @@
 
 | № | Глава |
 |---|-------|
-| 117 | [Причинность по Грэнджеру](chapters/117_granger_causality_trading/) |
-| 118 | [PCMCI: обнаружение причин](chapters/118_pcmci_causal_discovery/) |
-| 119 | [Трансферная энтропия для трейдинга](chapters/119_transfer_entropy_trading/) |
-| 120 | [VAR-LiNGAM для рынков](chapters/120_varlingam_markets/) |
-| 121 | [Обучение DAG для финансов](chapters/121_dag_learning_finance/) |
-| 122 | [Инструментальные переменные](chapters/122_instrumental_variables_trading/) |
-| 123 | [Double ML для трейдинга](chapters/123_double_ml_trading/) |
-| 124 | [Причинные леса для финансов](chapters/124_causal_forests_finance/) |
-| 125 | [Синтетический контроль](chapters/125_synthetic_control_trading/) |
-| 126 | [Разность разностей в трейдинге](chapters/126_diff_in_diff_trading/) |
-| 127 | [Регрессионный разрыв](chapters/127_regression_discontinuity/) |
-| 128 | [Оценка склонности в трейдинге](chapters/128_propensity_score_trading/) |
-| 129 | [Анализ медиации в финансах](chapters/129_mediation_analysis_finance/) |
-| 130 | [Обнаружение причинных факторов](chapters/130_causal_factor_discovery/) |
-| 131 | [Контрфактический трейдинг](chapters/131_counterfactual_trading/) |
+| 117 | [Причинность по Грэнджеру](https://github.com/suenot/117-granger-causality-trading) |
+| 118 | [PCMCI: обнаружение причин](https://github.com/suenot/118-pcmci-causal-discovery) |
+| 119 | [Трансферная энтропия для трейдинга](https://github.com/suenot/119-transfer-entropy-trading) |
+| 120 | [VAR-LiNGAM для рынков](https://github.com/suenot/120-varlingam-markets) |
+| 121 | [Обучение DAG для финансов](https://github.com/suenot/121-dag-learning-finance) |
+| 122 | [Инструментальные переменные](https://github.com/suenot/122-instrumental-variables-trading) |
+| 123 | [Double ML для трейдинга](https://github.com/suenot/123-double-ml-trading) |
+| 124 | [Причинные леса для финансов](https://github.com/suenot/124-causal-forests-finance) |
+| 125 | [Синтетический контроль](https://github.com/suenot/125-synthetic-control-trading) |
+| 126 | [Разность разностей в трейдинге](https://github.com/suenot/126-diff-in-diff-trading) |
+| 127 | [Регрессионный разрыв](https://github.com/suenot/127-regression-discontinuity) |
+| 128 | [Оценка склонности в трейдинге](https://github.com/suenot/128-propensity-score-trading) |
+| 129 | [Анализ медиации в финансах](https://github.com/suenot/129-mediation-analysis-finance) |
+| 130 | [Обнаружение причинных факторов](https://github.com/suenot/130-causal-factor-discovery) |
+| 131 | [Контрфактический трейдинг](https://github.com/suenot/131-counterfactual-trading) |
 
 ---
 
@@ -214,21 +214,21 @@
 
 | № | Глава |
 |---|-------|
-| 132 | [SHAP для трейдинга](chapters/132_shap_trading_interpretability/) |
-| 133 | [LIME для трейдинга](chapters/133_lime_trading_explanation/) |
-| 134 | [Интегрированные градиенты для финансов](chapters/134_integrated_gradients_finance/) |
-| 135 | [Визуализация внимания в трейдинге](chapters/135_attention_visualization_trading/) |
-| 136 | [Атрибуция признаков в трейдинге](chapters/136_feature_attribution_trading/) |
-| 137 | [Контрфактические объяснения](chapters/137_counterfactual_explanations/) |
-| 138 | [Концептуальное бутылочное горлышко](chapters/138_concept_bottleneck_trading/) |
-| 139 | [Прототипное обучение для трейдинга](chapters/139_prototype_learning_trading/) |
-| 140 | [Извлечение правил для трейдинга](chapters/140_rule_extraction_trading/) |
-| 141 | [Карты значимости для трейдинга](chapters/141_saliency_maps_trading/) |
-| 142 | [Послойное распространение релевантности](chapters/142_layer_wise_relevance/) |
-| 143 | [DeepLIFT для трейдинга](chapters/143_deeplift_trading/) |
-| 144 | [GradCAM для финансов](chapters/144_gradcam_finance/) |
-| 145 | [Attention Rollout для трейдинга](chapters/145_attention_rollout_trading/) |
-| 146 | [Дистилляция в деревья решений](chapters/146_decision_tree_distillation/) |
+| 132 | [SHAP для трейдинга](https://github.com/suenot/132-shap-trading-interpretability) |
+| 133 | [LIME для трейдинга](https://github.com/suenot/133-lime-trading-explanation) |
+| 134 | [Интегрированные градиенты для финансов](https://github.com/suenot/134-integrated-gradients-finance) |
+| 135 | [Визуализация внимания в трейдинге](https://github.com/suenot/135-attention-visualization-trading) |
+| 136 | [Атрибуция признаков в трейдинге](https://github.com/suenot/136-feature-attribution-trading) |
+| 137 | [Контрфактические объяснения](https://github.com/suenot/137-counterfactual-explanations) |
+| 138 | [Концептуальное бутылочное горлышко](https://github.com/suenot/138-concept-bottleneck-trading) |
+| 139 | [Прототипное обучение для трейдинга](https://github.com/suenot/139-prototype-learning-trading) |
+| 140 | [Извлечение правил для трейдинга](https://github.com/suenot/140-rule-extraction-trading) |
+| 141 | [Карты значимости для трейдинга](https://github.com/suenot/141-saliency-maps-trading) |
+| 142 | [Послойное распространение релевантности](https://github.com/suenot/142-layer-wise-relevance) |
+| 143 | [DeepLIFT для трейдинга](https://github.com/suenot/143-deeplift-trading) |
+| 144 | [GradCAM для финансов](https://github.com/suenot/144-gradcam-finance) |
+| 145 | [Attention Rollout для трейдинга](https://github.com/suenot/145-attention-rollout-trading) |
+| 146 | [Дистилляция в деревья решений](https://github.com/suenot/146-decision-tree-distillation) |
 
 ---
 
@@ -236,21 +236,21 @@
 
 | № | Глава |
 |---|-------|
-| 147 | [Mamba для трейдинга](chapters/147_mamba_for_trading/) |
-| 148 | [S4: структурированное пространство состояний](chapters/148_s4_trading/) |
-| 149 | [Жидкие машины состояний](chapters/149_liquid_state_machines/) |
-| 150 | [MambaTS для временных рядов](chapters/150_mambats_time_series/) |
-| 151 | [Mamba4Cast: zero-shot прогнозирование](chapters/151_mamba4cast_zero_shot/) |
-| 152 | [C-Mamba: канальная корреляция](chapters/152_c_mamba_channel_correlation/) |
-| 153 | [TimeParticle SSM](chapters/153_timeparticle_ssm/) |
-| 154 | [Фреймворк HiPPO](chapters/154_hippo_framework/) |
-| 155 | [Линейное внимание SSM](chapters/155_linear_attention_ssm/) |
-| 156 | [Двунаправленная Mamba](chapters/156_bidirectional_mamba/) |
-| 157 | [Иерархическая SSM](chapters/157_hierarchical_ssm/) |
-| 158 | [Вентильная SSM](chapters/158_gated_ssm/) |
-| 159 | [Диагональная SSM](chapters/159_diagonal_ssm/) |
-| 160 | [Гибрид SSM-GNN](chapters/160_ssm_gnn_hybrid/) |
-| 161 | [Гибрид SSM-Transformer](chapters/161_ssm_transformer_hybrid/) |
+| 147 | [Mamba для трейдинга](https://github.com/suenot/147-mamba-for-trading) |
+| 148 | [S4: структурированное пространство состояний](https://github.com/suenot/148-s4-trading) |
+| 149 | [Жидкие машины состояний](https://github.com/suenot/149-liquid-state-machines) |
+| 150 | [MambaTS для временных рядов](https://github.com/suenot/150-mambats-time-series) |
+| 151 | [Mamba4Cast: zero-shot прогнозирование](https://github.com/suenot/151-mamba4cast-zero-shot) |
+| 152 | [C-Mamba: канальная корреляция](https://github.com/suenot/152-c-mamba-channel-correlation) |
+| 153 | [TimeParticle SSM](https://github.com/suenot/153-timeparticle-ssm) |
+| 154 | [Фреймворк HiPPO](https://github.com/suenot/154-hippo-framework) |
+| 155 | [Линейное внимание SSM](https://github.com/suenot/155-linear-attention-ssm) |
+| 156 | [Двунаправленная Mamba](https://github.com/suenot/156-bidirectional-mamba) |
+| 157 | [Иерархическая SSM](https://github.com/suenot/157-hierarchical-ssm) |
+| 158 | [Вентильная SSM](https://github.com/suenot/158-gated-ssm) |
+| 159 | [Диагональная SSM](https://github.com/suenot/159-diagonal-ssm) |
+| 160 | [Гибрид SSM-GNN](https://github.com/suenot/160-ssm-gnn-hybrid) |
+| 161 | [Гибрид SSM-Transformer](https://github.com/suenot/161-ssm-transformer-hybrid) |
 
 ---
 
@@ -258,21 +258,21 @@
 
 | № | Глава |
 |---|-------|
-| 162 | [PINN для модели Блэка-Шоулса](chapters/162_pinn_black_scholes/) |
-| 163 | [PINN для американских опционов](chapters/163_pinn_american_options/) |
-| 164 | [PINN для диффузии с прыжками](chapters/164_pinn_jump_diffusion/) |
-| 165 | [PINN для модели Хестона](chapters/165_pinn_heston_model/) |
-| 166 | [PINN для модели Халла-Уайта](chapters/166_pinn_hull_white_rates/) |
-| 167 | [PINN для модели CIR](chapters/167_pinn_cir_model/) |
-| 168 | [Нейронные СДУ для трейдинга](chapters/168_neural_sde_trading/) |
-| 169 | [Нейронные ОДУ для трейдинга](chapters/169_neural_ode_trading/) |
-| 170 | [Гамильтоновы нейронные сети](chapters/170_hamiltonian_nn_trading/) |
-| 171 | [Лагранжевы нейронные сети](chapters/171_lagrangian_nn_trading/) |
-| 172 | [Физически ограниченный GAN](chapters/172_physics_constrained_gan/) |
-| 173 | [Обучение операторов для финансов](chapters/173_operator_learning_finance/) |
-| 174 | [DeepONet для финансов](chapters/174_deeponet_finance/) |
-| 175 | [Нейронный оператор Фурье](chapters/175_fourier_neural_operator/) |
-| 176 | [Нейронные неявные представления](chapters/176_neural_implicit_finance/) |
+| 162 | [PINN для модели Блэка-Шоулса](https://github.com/suenot/162-pinn-black-scholes) |
+| 163 | [PINN для американских опционов](https://github.com/suenot/163-pinn-american-options) |
+| 164 | [PINN для диффузии с прыжками](https://github.com/suenot/164-pinn-jump-diffusion) |
+| 165 | [PINN для модели Хестона](https://github.com/suenot/165-pinn-heston-model) |
+| 166 | [PINN для модели Халла-Уайта](https://github.com/suenot/166-pinn-hull-white-rates) |
+| 167 | [PINN для модели CIR](https://github.com/suenot/167-pinn-cir-model) |
+| 168 | [Нейронные СДУ для трейдинга](https://github.com/suenot/168-neural-sde-trading) |
+| 169 | [Нейронные ОДУ для трейдинга](https://github.com/suenot/169-neural-ode-trading) |
+| 170 | [Гамильтоновы нейронные сети](https://github.com/suenot/170-hamiltonian-nn-trading) |
+| 171 | [Лагранжевы нейронные сети](https://github.com/suenot/171-lagrangian-nn-trading) |
+| 172 | [Физически ограниченный GAN](https://github.com/suenot/172-physics-constrained-gan) |
+| 173 | [Обучение операторов для финансов](https://github.com/suenot/173-operator-learning-finance) |
+| 174 | [DeepONet для финансов](https://github.com/suenot/174-deeponet-finance) |
+| 175 | [Нейронный оператор Фурье](https://github.com/suenot/175-fourier-neural-operator) |
+| 176 | [Нейронные неявные представления](https://github.com/suenot/176-neural-implicit-finance) |
 
 ---
 
@@ -280,26 +280,26 @@
 
 | № | Глава |
 |---|-------|
-| 177 | [Диффузионные модели для трейдинга](chapters/177_diffusion_models_for_trading/) |
-| 178 | [VAE факторная модель](chapters/178_vae_factor_model/) |
-| 179 | [Распутанный факторный VAE](chapters/179_disentangled_factor_vae/) |
-| 180 | [RVRAE: динамическая факторная модель](chapters/180_rvrae_dynamic_factor/) |
-| 181 | [Beta-VAE для трейдинга](chapters/181_beta_vae_trading/) |
-| 182 | [VQ-VAE для трейдинга](chapters/182_vq_vae_trading/) |
-| 183 | [Условный VAE для трейдинга](chapters/183_conditional_vae_trading/) |
-| 184 | [Иерархический VAE для трейдинга](chapters/184_hierarchical_vae_trading/) |
-| 185 | [Распутанный VAE для трейдинга](chapters/185_disentangled_vae_trading/) |
-| 186 | [VAE для генерации портфелей](chapters/186_vae_portfolio_generation/) |
-| 187 | [VAE для поверхности волатильности](chapters/187_vae_volatility_surface/) |
-| 188 | [Нормализующие потоки для финансов](chapters/188_normalizing_flows_finance/) |
-| 189 | [RealNVP для трейдинга](chapters/189_realnvp_trading/) |
-| 190 | [Glow для трейдинга](chapters/190_glow_trading/) |
-| 191 | [Нейронные сплайновые потоки](chapters/191_neural_spline_flows/) |
-| 192 | [Непрерывные нормализующие потоки](chapters/192_continuous_normalizing_flows/) |
-| 193 | [Согласование оценок для трейдинга](chapters/193_score_matching_trading/) |
-| 194 | [Энергетические модели](chapters/194_energy_based_models/) |
-| 195 | [Сети Хопфилда для трейдинга](chapters/195_hopfield_networks_trading/) |
-| 196 | [Ассоциативная память для трейдинга](chapters/196_associative_memory_trading/) |
+| 177 | [Диффузионные модели для трейдинга](https://github.com/suenot/177-diffusion-models-for-trading) |
+| 178 | [VAE факторная модель](https://github.com/suenot/178-vae-factor-model) |
+| 179 | [Распутанный факторный VAE](https://github.com/suenot/179-disentangled-factor-vae) |
+| 180 | [RVRAE: динамическая факторная модель](https://github.com/suenot/180-rvrae-dynamic-factor) |
+| 181 | [Beta-VAE для трейдинга](https://github.com/suenot/181-beta-vae-trading) |
+| 182 | [VQ-VAE для трейдинга](https://github.com/suenot/182-vq-vae-trading) |
+| 183 | [Условный VAE для трейдинга](https://github.com/suenot/183-conditional-vae-trading) |
+| 184 | [Иерархический VAE для трейдинга](https://github.com/suenot/184-hierarchical-vae-trading) |
+| 185 | [Распутанный VAE для трейдинга](https://github.com/suenot/185-disentangled-vae-trading) |
+| 186 | [VAE для генерации портфелей](https://github.com/suenot/186-vae-portfolio-generation) |
+| 187 | [VAE для поверхности волатильности](https://github.com/suenot/187-vae-volatility-surface) |
+| 188 | [Нормализующие потоки для финансов](https://github.com/suenot/188-normalizing-flows-finance) |
+| 189 | [RealNVP для трейдинга](https://github.com/suenot/189-realnvp-trading) |
+| 190 | [Glow для трейдинга](https://github.com/suenot/190-glow-trading) |
+| 191 | [Нейронные сплайновые потоки](https://github.com/suenot/191-neural-spline-flows) |
+| 192 | [Непрерывные нормализующие потоки](https://github.com/suenot/192-continuous-normalizing-flows) |
+| 193 | [Согласование оценок для трейдинга](https://github.com/suenot/193-score-matching-trading) |
+| 194 | [Энергетические модели](https://github.com/suenot/194-energy-based-models) |
+| 195 | [Сети Хопфилда для трейдинга](https://github.com/suenot/195-hopfield-networks-trading) |
+| 196 | [Ассоциативная память для трейдинга](https://github.com/suenot/196-associative-memory-trading) |
 
 ---
 
@@ -307,28 +307,28 @@
 
 | № | Глава |
 |---|-------|
-| 197 | [SimCLR для акций](chapters/197_simclr_for_stocks/) |
-| 198 | [MoCo для трейдинга](chapters/198_moco_trading/) |
-| 199 | [BYOL для трейдинга](chapters/199_byol_trading/) |
-| 200 | [Barlow Twins для финансов](chapters/200_barlow_twins_finance/) |
-| 201 | [SwAV для трейдинга](chapters/201_swav_trading/) |
-| 202 | [VICReg для трейдинга](chapters/202_vicreg_trading/) |
-| 203 | [Триплетное обучение для акций](chapters/203_triplet_learning_stocks/) |
-| 204 | [Временное контрастное обучение](chapters/204_temporal_contrastive/) |
-| 205 | [Кросс-модальное контрастное обучение](chapters/205_cross_modal_contrastive/) |
-| 206 | [Майнинг трудных негативов](chapters/206_hard_negative_mining/) |
-| 207 | [Контрастное предиктивное кодирование](chapters/207_contrastive_predictive_coding/) |
-| 208 | [InfoNCE для трейдинга](chapters/208_infonce_trading/) |
-| 209 | [NT-Xent для трейдинга](chapters/209_nt_xent_trading/) |
-| 210 | [Supervised Contrastive Learning](chapters/210_supervised_contrastive/) |
-| 211 | [Proto-Contrastive Learning](chapters/211_proto_contrastive/) |
-| 212 | [Самообучение для трейдинга](chapters/212_self_supervised_trading/) |
-| 213 | [Masked Autoencoder для финансов](chapters/213_masked_autoencoder_finance/) |
-| 214 | [Self-Supervised для финансовых рядов](chapters/214_self_supervised_ts_finance/) |
-| 215 | [CLIP мультимодальный для трейдинга](chapters/215_clip_multimodal_trading/) |
-| 216 | [Аугментация данных для трейдинга](chapters/216_data_augmentation_trading/) |
-| 217 | [Обучение по учебной программе](chapters/217_curriculum_learning_trading/) |
-| 218 | [Активное обучение для трейдинга](chapters/218_active_learning_trading/) |
+| 197 | [SimCLR для акций](https://github.com/suenot/197-simclr-for-stocks) |
+| 198 | [MoCo для трейдинга](https://github.com/suenot/198-moco-trading) |
+| 199 | [BYOL для трейдинга](https://github.com/suenot/199-byol-trading) |
+| 200 | [Barlow Twins для финансов](https://github.com/suenot/200-barlow-twins-finance) |
+| 201 | [SwAV для трейдинга](https://github.com/suenot/201-swav-trading) |
+| 202 | [VICReg для трейдинга](https://github.com/suenot/202-vicreg-trading) |
+| 203 | [Триплетное обучение для акций](https://github.com/suenot/203-triplet-learning-stocks) |
+| 204 | [Временное контрастное обучение](https://github.com/suenot/204-temporal-contrastive) |
+| 205 | [Кросс-модальное контрастное обучение](https://github.com/suenot/205-cross-modal-contrastive) |
+| 206 | [Майнинг трудных негативов](https://github.com/suenot/206-hard-negative-mining) |
+| 207 | [Контрастное предиктивное кодирование](https://github.com/suenot/207-contrastive-predictive-coding) |
+| 208 | [InfoNCE для трейдинга](https://github.com/suenot/208-infonce-trading) |
+| 209 | [NT-Xent для трейдинга](https://github.com/suenot/209-nt-xent-trading) |
+| 210 | [Supervised Contrastive Learning](https://github.com/suenot/210-supervised-contrastive) |
+| 211 | [Proto-Contrastive Learning](https://github.com/suenot/211-proto-contrastive) |
+| 212 | [Самообучение для трейдинга](https://github.com/suenot/212-self-supervised-trading) |
+| 213 | [Masked Autoencoder для финансов](https://github.com/suenot/213-masked-autoencoder-finance) |
+| 214 | [Self-Supervised для финансовых рядов](https://github.com/suenot/214-self-supervised-ts-finance) |
+| 215 | [CLIP мультимодальный для трейдинга](https://github.com/suenot/215-clip-multimodal-trading) |
+| 216 | [Аугментация данных для трейдинга](https://github.com/suenot/216-data-augmentation-trading) |
+| 217 | [Обучение по учебной программе](https://github.com/suenot/217-curriculum-learning-trading) |
+| 218 | [Активное обучение для трейдинга](https://github.com/suenot/218-active-learning-trading) |
 
 ---
 
@@ -336,26 +336,26 @@
 
 | № | Глава |
 |---|-------|
-| 219 | [Глубокое обучение для LOB](chapters/219_lob_deep_learning/) |
-| 220 | [Маркет-мейкинг с ML](chapters/220_market_making_ml/) |
-| 221 | [Прогнозирование потока ордеров](chapters/221_order_flow_prediction/) |
-| 222 | [Моделирование ценового воздействия](chapters/222_price_impact_modeling/) |
-| 223 | [Прогнозирование тиковых данных](chapters/223_tick_data_forecasting/) |
-| 224 | [Классификация сделок](chapters/224_trade_classification/) |
-| 225 | [Предсказание обновлений котировок](chapters/225_quote_update_prediction/) |
-| 226 | [ML-моделирование спреда](chapters/226_spread_modeling_ml/) |
-| 227 | [Прогнозирование ликвидности](chapters/227_liquidity_prediction/) |
-| 228 | [Признаки микроструктуры](chapters/228_microstructure_features/) |
-| 229 | [DeepLOB: прогнозирование](chapters/229_deeplob_forecasting/) |
-| 230 | [LOBFrame: бенчмарк](chapters/230_lobframe_benchmark/) |
-| 231 | [LIT Transformer для LOB](chapters/231_lit_transformer_lob/) |
-| 232 | [CNN для предсказания LOB](chapters/232_cnn_lob_prediction/) |
-| 233 | [LSTM для прогнозирования LOB](chapters/233_lstm_lob_forecasting/) |
-| 234 | [Внимание для LOB](chapters/234_attention_lob/) |
-| 235 | [GNN для LOB](chapters/235_gnn_lob/) |
-| 236 | [Вариационный LOB](chapters/236_variational_lob/) |
-| 237 | [Генеративный LOB](chapters/237_generative_lob/) |
-| 238 | [RL для LOB](chapters/238_reinforcement_lob/) |
+| 219 | [Глубокое обучение для LOB](https://github.com/suenot/219-lob-deep-learning) |
+| 220 | [Маркет-мейкинг с ML](https://github.com/suenot/220-market-making-ml) |
+| 221 | [Прогнозирование потока ордеров](https://github.com/suenot/221-order-flow-prediction) |
+| 222 | [Моделирование ценового воздействия](https://github.com/suenot/222-price-impact-modeling) |
+| 223 | [Прогнозирование тиковых данных](https://github.com/suenot/223-tick-data-forecasting) |
+| 224 | [Классификация сделок](https://github.com/suenot/224-trade-classification) |
+| 225 | [Предсказание обновлений котировок](https://github.com/suenot/225-quote-update-prediction) |
+| 226 | [ML-моделирование спреда](https://github.com/suenot/226-spread-modeling-ml) |
+| 227 | [Прогнозирование ликвидности](https://github.com/suenot/227-liquidity-prediction) |
+| 228 | [Признаки микроструктуры](https://github.com/suenot/228-microstructure-features) |
+| 229 | [DeepLOB: прогнозирование](https://github.com/suenot/229-deeplob-forecasting) |
+| 230 | [LOBFrame: бенчмарк](https://github.com/suenot/230-lobframe-benchmark) |
+| 231 | [LIT Transformer для LOB](https://github.com/suenot/231-lit-transformer-lob) |
+| 232 | [CNN для предсказания LOB](https://github.com/suenot/232-cnn-lob-prediction) |
+| 233 | [LSTM для прогнозирования LOB](https://github.com/suenot/233-lstm-lob-forecasting) |
+| 234 | [Внимание для LOB](https://github.com/suenot/234-attention-lob) |
+| 235 | [GNN для LOB](https://github.com/suenot/235-gnn-lob) |
+| 236 | [Вариационный LOB](https://github.com/suenot/236-variational-lob) |
+| 237 | [Генеративный LOB](https://github.com/suenot/237-generative-lob) |
+| 238 | [RL для LOB](https://github.com/suenot/238-reinforcement-lob) |
 
 ---
 
@@ -363,36 +363,36 @@
 
 | № | Глава |
 |---|-------|
-| 239 | [TD3 для портфеля](chapters/239_td3_portfolio/) |
-| 240 | [SAC для трейдинга](chapters/240_sac_trading/) |
-| 241 | [PPO для портфеля](chapters/241_ppo_portfolio/) |
-| 242 | [A2C для трейдинга](chapters/242_a2c_trading/) |
-| 243 | [DDPG для трейдинга](chapters/243_ddpg_trading/) |
-| 244 | [DQN для портфеля](chapters/244_dqn_portfolio/) |
-| 245 | [Rainbow DQN для трейдинга](chapters/245_rainbow_dqn_trading/) |
-| 246 | [C51: дистрибуционный RL](chapters/246_c51_distributional_rl/) |
-| 247 | [IQN: неявные квантильные сети](chapters/247_iqn_implicit_quantile/) |
-| 248 | [Иерархический RL для трейдинга](chapters/248_hierarchical_rl_trading/) |
-| 249 | [Модельно-ориентированный RL](chapters/249_model_based_rl_trading/) |
-| 250 | [World Models для трейдинга](chapters/250_world_models_trading/) |
-| 251 | [Dreamer для трейдинга](chapters/251_dreamer_trading/) |
-| 252 | [MuZero для трейдинга](chapters/252_muzero_trading/) |
-| 253 | [Обратный RL для трейдинга](chapters/253_inverse_rl_trading/) |
-| 254 | [Имитационное обучение](chapters/254_imitation_learning_trading/) |
-| 255 | [Поведенческое клонирование](chapters/255_behavioral_cloning_trading/) |
-| 256 | [GAIL для трейдинга](chapters/256_gail_trading/) |
-| 257 | [Формирование вознаграждения](chapters/257_reward_shaping_trading/) |
-| 258 | [Трейдинг на основе любопытства](chapters/258_curiosity_driven_trading/) |
-| 259 | [Поиск Монте-Карло по дереву](chapters/259_monte_carlo_tree_search/) |
-| 260 | [Планирование в RL для трейдинга](chapters/260_planning_rl_trading/) |
-| 261 | [Офлайн-RL для трейдинга](chapters/261_offline_rl_trading/) |
-| 262 | [Conservative Q-Learning](chapters/262_conservative_q_learning/) |
-| 263 | [Decision Transformer](chapters/263_decision_transformer/) |
-| 264 | [Trajectory Transformer](chapters/264_trajectory_transformer/) |
-| 265 | [RL с целевым условием](chapters/265_goal_conditioned_rl/) |
-| 266 | [Фреймворк опций для RL](chapters/266_option_framework_rl/) |
-| 267 | [Обучение на основе популяции](chapters/267_population_based_training/) |
-| 268 | [Многоцелевой RL для трейдинга](chapters/268_multi_objective_rl_trading/) |
+| 239 | [TD3 для портфеля](https://github.com/suenot/239-td3-portfolio) |
+| 240 | [SAC для трейдинга](https://github.com/suenot/240-sac-trading) |
+| 241 | [PPO для портфеля](https://github.com/suenot/241-ppo-portfolio) |
+| 242 | [A2C для трейдинга](https://github.com/suenot/242-a2c-trading) |
+| 243 | [DDPG для трейдинга](https://github.com/suenot/243-ddpg-trading) |
+| 244 | [DQN для портфеля](https://github.com/suenot/244-dqn-portfolio) |
+| 245 | [Rainbow DQN для трейдинга](https://github.com/suenot/245-rainbow-dqn-trading) |
+| 246 | [C51: дистрибуционный RL](https://github.com/suenot/246-c51-distributional-rl) |
+| 247 | [IQN: неявные квантильные сети](https://github.com/suenot/247-iqn-implicit-quantile) |
+| 248 | [Иерархический RL для трейдинга](https://github.com/suenot/248-hierarchical-rl-trading) |
+| 249 | [Модельно-ориентированный RL](https://github.com/suenot/249-model-based-rl-trading) |
+| 250 | [World Models для трейдинга](https://github.com/suenot/250-world-models-trading) |
+| 251 | [Dreamer для трейдинга](https://github.com/suenot/251-dreamer-trading) |
+| 252 | [MuZero для трейдинга](https://github.com/suenot/252-muzero-trading) |
+| 253 | [Обратный RL для трейдинга](https://github.com/suenot/253-inverse-rl-trading) |
+| 254 | [Имитационное обучение](https://github.com/suenot/254-imitation-learning-trading) |
+| 255 | [Поведенческое клонирование](https://github.com/suenot/255-behavioral-cloning-trading) |
+| 256 | [GAIL для трейдинга](https://github.com/suenot/256-gail-trading) |
+| 257 | [Формирование вознаграждения](https://github.com/suenot/257-reward-shaping-trading) |
+| 258 | [Трейдинг на основе любопытства](https://github.com/suenot/258-curiosity-driven-trading) |
+| 259 | [Поиск Монте-Карло по дереву](https://github.com/suenot/259-monte-carlo-tree-search) |
+| 260 | [Планирование в RL для трейдинга](https://github.com/suenot/260-planning-rl-trading) |
+| 261 | [Офлайн-RL для трейдинга](https://github.com/suenot/261-offline-rl-trading) |
+| 262 | [Conservative Q-Learning](https://github.com/suenot/262-conservative-q-learning) |
+| 263 | [Decision Transformer](https://github.com/suenot/263-decision-transformer) |
+| 264 | [Trajectory Transformer](https://github.com/suenot/264-trajectory-transformer) |
+| 265 | [RL с целевым условием](https://github.com/suenot/265-goal-conditioned-rl) |
+| 266 | [Фреймворк опций для RL](https://github.com/suenot/266-option-framework-rl) |
+| 267 | [Обучение на основе популяции](https://github.com/suenot/267-population-based-training) |
+| 268 | [Многоцелевой RL для трейдинга](https://github.com/suenot/268-multi-objective-rl-trading) |
 
 ---
 
@@ -400,17 +400,17 @@
 
 | № | Глава |
 |---|-------|
-| 269 | [Байесовская оптимизация для трейдинга](chapters/269_bayesian_optimization_trading/) |
-| 270 | [Гауссовский процесс для трейдинга](chapters/270_gaussian_process_trading/) |
-| 271 | [Квантификация неопределённости](chapters/271_uncertainty_quantification/) |
-| 272 | [Неопределённость ансамблей](chapters/272_ensemble_uncertainty/) |
-| 273 | [MC Dropout для трейдинга](chapters/273_mc_dropout_trading/) |
-| 274 | [Глубокие ансамбли для трейдинга](chapters/274_deep_ensembles_trading/) |
-| 275 | [Байесовские нейронные сети](chapters/275_bayesian_neural_network/) |
-| 276 | [Вариационный вывод для трейдинга](chapters/276_variational_inference_trading/) |
-| 277 | [Вероятностное прогнозирование](chapters/277_probabilistic_forecasting/) |
-| 278 | [Интервалы предсказания для трейдинга](chapters/278_prediction_intervals_trading/) |
-| 279 | [Копульные модели для финансов](chapters/279_copula_models_finance/) |
+| 269 | [Байесовская оптимизация для трейдинга](https://github.com/suenot/269-bayesian-optimization-trading) |
+| 270 | [Гауссовский процесс для трейдинга](https://github.com/suenot/270-gaussian-process-trading) |
+| 271 | [Квантификация неопределённости](https://github.com/suenot/271-uncertainty-quantification) |
+| 272 | [Неопределённость ансамблей](https://github.com/suenot/272-ensemble-uncertainty) |
+| 273 | [MC Dropout для трейдинга](https://github.com/suenot/273-mc-dropout-trading) |
+| 274 | [Глубокие ансамбли для трейдинга](https://github.com/suenot/274-deep-ensembles-trading) |
+| 275 | [Байесовские нейронные сети](https://github.com/suenot/275-bayesian-neural-network) |
+| 276 | [Вариационный вывод для трейдинга](https://github.com/suenot/276-variational-inference-trading) |
+| 277 | [Вероятностное прогнозирование](https://github.com/suenot/277-probabilistic-forecasting) |
+| 278 | [Интервалы предсказания для трейдинга](https://github.com/suenot/278-prediction-intervals-trading) |
+| 279 | [Копульные модели для финансов](https://github.com/suenot/279-copula-models-finance) |
 
 ---
 
@@ -418,17 +418,17 @@
 
 | № | Глава |
 |---|-------|
-| 280 | [Графовые нейронные сети для трейдинга](chapters/280_graph_neural_networks/) |
-| 281 | [Graph Transformer для трейдинга](chapters/281_graph_transformer_trading/) |
-| 282 | [Эквивариантная GNN для трейдинга](chapters/282_equivariant_gnn_trading/) |
-| 283 | [Передача сообщений для трейдинга](chapters/283_message_passing_trading/) |
-| 284 | [Graph Attention для трейдинга](chapters/284_graph_attention_trading/) |
-| 285 | [Гетерогенная GNN для трейдинга](chapters/285_heterogeneous_gnn_trading/) |
-| 286 | [Временная GNN для трейдинга](chapters/286_temporal_gnn_trading/) |
-| 287 | [Динамическая GNN для трейдинга](chapters/287_dynamic_gnn_trading/) |
-| 288 | [Генерация графов для трейдинга](chapters/288_graph_generation_trading/) |
-| 289 | [Пулинг графов для трейдинга](chapters/289_graph_pooling_trading/) |
-| 290 | [Майнинг подграфов для трейдинга](chapters/290_subgraph_mining_trading/) |
+| 280 | [Графовые нейронные сети для трейдинга](https://github.com/suenot/280-graph-neural-networks) |
+| 281 | [Graph Transformer для трейдинга](https://github.com/suenot/281-graph-transformer-trading) |
+| 282 | [Эквивариантная GNN для трейдинга](https://github.com/suenot/282-equivariant-gnn-trading) |
+| 283 | [Передача сообщений для трейдинга](https://github.com/suenot/283-message-passing-trading) |
+| 284 | [Graph Attention для трейдинга](https://github.com/suenot/284-graph-attention-trading) |
+| 285 | [Гетерогенная GNN для трейдинга](https://github.com/suenot/285-heterogeneous-gnn-trading) |
+| 286 | [Временная GNN для трейдинга](https://github.com/suenot/286-temporal-gnn-trading) |
+| 287 | [Динамическая GNN для трейдинга](https://github.com/suenot/287-dynamic-gnn-trading) |
+| 288 | [Генерация графов для трейдинга](https://github.com/suenot/288-graph-generation-trading) |
+| 289 | [Пулинг графов для трейдинга](https://github.com/suenot/289-graph-pooling-trading) |
+| 290 | [Майнинг подграфов для трейдинга](https://github.com/suenot/290-subgraph-mining-trading) |
 
 ---
 
@@ -436,16 +436,16 @@
 
 | № | Глава |
 |---|-------|
-| 291 | [WaveNet для трейдинга](chapters/291_wavenet_trading/) |
-| 292 | [TCN: временная свёрточная сеть](chapters/292_tcn_trading/) |
-| 293 | [Дилатированные свёртки для трейдинга](chapters/293_dilated_convolutions_trading/) |
-| 294 | [InceptionTime для трейдинга](chapters/294_inception_time_trading/) |
-| 295 | [ResNet для временных рядов](chapters/295_resnet_timeseries/) |
-| 296 | [DenseNet для трейдинга](chapters/296_densenet_trading/) |
-| 297 | [EfficientNet для трейдинга](chapters/297_efficientnet_trading/) |
-| 298 | [ConvNeXt для трейдинга](chapters/298_convnext_trading/) |
-| 299 | [Поканальные разделимые свёртки](chapters/299_depthwise_separable_trading/) |
-| 300 | [Squeeze-and-Excitation сети](chapters/300_squeeze_excitation_trading/) |
+| 291 | [WaveNet для трейдинга](https://github.com/suenot/291-wavenet-trading) |
+| 292 | [TCN: временная свёрточная сеть](https://github.com/suenot/292-tcn-trading) |
+| 293 | [Дилатированные свёртки для трейдинга](https://github.com/suenot/293-dilated-convolutions-trading) |
+| 294 | [InceptionTime для трейдинга](https://github.com/suenot/294-inception-time-trading) |
+| 295 | [ResNet для временных рядов](https://github.com/suenot/295-resnet-timeseries) |
+| 296 | [DenseNet для трейдинга](https://github.com/suenot/296-densenet-trading) |
+| 297 | [EfficientNet для трейдинга](https://github.com/suenot/297-efficientnet-trading) |
+| 298 | [ConvNeXt для трейдинга](https://github.com/suenot/298-convnext-trading) |
+| 299 | [Поканальные разделимые свёртки](https://github.com/suenot/299-depthwise-separable-trading) |
+| 300 | [Squeeze-and-Excitation сети](https://github.com/suenot/300-squeeze-excitation-trading) |
 
 ---
 
@@ -453,21 +453,21 @@
 
 | № | Глава |
 |---|-------|
-| 301 | [FedAvg для трейдинга](chapters/301_fedavg_trading/) |
-| 302 | [FedProx для финансов](chapters/302_fedprox_finance/) |
-| 303 | [Безопасная агрегация для трейдинга](chapters/303_secure_aggregation_trading/) |
-| 304 | [Дифференциальная приватность](chapters/304_differential_privacy_trading/) |
-| 305 | [Блокчейн-FL для трейдинга](chapters/305_blockchain_fl_trading/) |
-| 306 | [Персонализированный FL](chapters/306_personalized_fl_trading/) |
-| 307 | [Иерархический FL для трейдинга](chapters/307_hierarchical_fl_trading/) |
-| 308 | [Асинхронный FL для трейдинга](chapters/308_asynchronous_fl_trading/) |
-| 309 | [Коммуникационно-эффективный FL](chapters/309_communication_efficient_fl/) |
-| 310 | [Компрессия градиентов в FL](chapters/310_fl_gradient_compression/) |
-| 311 | [Византийски-устойчивый FL](chapters/311_byzantine_robust_fl/) |
-| 312 | [Честный FL для трейдинга](chapters/312_fair_fl_trading/) |
-| 313 | [Дистилляция знаний в FL](chapters/313_knowledge_distillation_fl/) |
-| 314 | [FL через сайлосы в трейдинге](chapters/314_fl_cross_silo_trading/) |
-| 315 | [FL на граничных устройствах](chapters/315_fl_edge_trading/) |
+| 301 | [FedAvg для трейдинга](https://github.com/suenot/301-fedavg-trading) |
+| 302 | [FedProx для финансов](https://github.com/suenot/302-fedprox-finance) |
+| 303 | [Безопасная агрегация для трейдинга](https://github.com/suenot/303-secure-aggregation-trading) |
+| 304 | [Дифференциальная приватность](https://github.com/suenot/304-differential-privacy-trading) |
+| 305 | [Блокчейн-FL для трейдинга](https://github.com/suenot/305-blockchain-fl-trading) |
+| 306 | [Персонализированный FL](https://github.com/suenot/306-personalized-fl-trading) |
+| 307 | [Иерархический FL для трейдинга](https://github.com/suenot/307-hierarchical-fl-trading) |
+| 308 | [Асинхронный FL для трейдинга](https://github.com/suenot/308-asynchronous-fl-trading) |
+| 309 | [Коммуникационно-эффективный FL](https://github.com/suenot/309-communication-efficient-fl) |
+| 310 | [Компрессия градиентов в FL](https://github.com/suenot/310-fl-gradient-compression) |
+| 311 | [Византийски-устойчивый FL](https://github.com/suenot/311-byzantine-robust-fl) |
+| 312 | [Честный FL для трейдинга](https://github.com/suenot/312-fair-fl-trading) |
+| 313 | [Дистилляция знаний в FL](https://github.com/suenot/313-knowledge-distillation-fl) |
+| 314 | [FL через сайлосы в трейдинге](https://github.com/suenot/314-fl-cross-silo-trading) |
+| 315 | [FL на граничных устройствах](https://github.com/suenot/315-fl-edge-trading) |
 
 ---
 
@@ -475,21 +475,21 @@
 
 | № | Глава |
 |---|-------|
-| 316 | [VQE для оптимизации портфеля](chapters/316_vqe_portfolio_optimization/) |
-| 317 | [QAOA для трейдинга](chapters/317_qaoa_trading/) |
-| 318 | [Квантовый GAN для финансов](chapters/318_quantum_gan_finance/) |
-| 319 | [Квантовое ядро для трейдинга](chapters/319_quantum_kernel_trading/) |
-| 320 | [Квантовая SVM для трейдинга](chapters/320_quantum_svm_trading/) |
-| 321 | [Вариационный квантовый классификатор](chapters/321_variational_quantum_classifier/) |
-| 322 | [Квантовая машина Больцмана](chapters/322_quantum_boltzmann_trading/) |
-| 323 | [Алгоритм Гровера для трейдинга](chapters/323_grover_search_trading/) |
-| 324 | [Алгоритм HHL для финансов](chapters/324_hhl_algorithm_finance/) |
-| 325 | [Квантовая карта признаков](chapters/325_quantum_feature_map/) |
-| 326 | [Квантовая коррекция ошибок](chapters/326_quantum_error_correction/) |
-| 327 | [Гибридные квантово-классические системы](chapters/327_hybrid_quantum_classical/) |
-| 328 | [NISQ-алгоритмы для трейдинга](chapters/328_nisq_trading_algorithms/) |
-| 329 | [Квантовый отжиг для трейдинга](chapters/329_quantum_annealing_trading/) |
-| 330 | [Тензорные сети для трейдинга](chapters/330_tensor_network_trading/) |
+| 316 | [VQE для оптимизации портфеля](https://github.com/suenot/316-vqe-portfolio-optimization) |
+| 317 | [QAOA для трейдинга](https://github.com/suenot/317-qaoa-trading) |
+| 318 | [Квантовый GAN для финансов](https://github.com/suenot/318-quantum-gan-finance) |
+| 319 | [Квантовое ядро для трейдинга](https://github.com/suenot/319-quantum-kernel-trading) |
+| 320 | [Квантовая SVM для трейдинга](https://github.com/suenot/320-quantum-svm-trading) |
+| 321 | [Вариационный квантовый классификатор](https://github.com/suenot/321-variational-quantum-classifier) |
+| 322 | [Квантовая машина Больцмана](https://github.com/suenot/322-quantum-boltzmann-trading) |
+| 323 | [Алгоритм Гровера для трейдинга](https://github.com/suenot/323-grover-search-trading) |
+| 324 | [Алгоритм HHL для финансов](https://github.com/suenot/324-hhl-algorithm-finance) |
+| 325 | [Квантовая карта признаков](https://github.com/suenot/325-quantum-feature-map) |
+| 326 | [Квантовая коррекция ошибок](https://github.com/suenot/326-quantum-error-correction) |
+| 327 | [Гибридные квантово-классические системы](https://github.com/suenot/327-hybrid-quantum-classical) |
+| 328 | [NISQ-алгоритмы для трейдинга](https://github.com/suenot/328-nisq-trading-algorithms) |
+| 329 | [Квантовый отжиг для трейдинга](https://github.com/suenot/329-quantum-annealing-trading) |
+| 330 | [Тензорные сети для трейдинга](https://github.com/suenot/330-tensor-network-trading) |
 
 ---
 
@@ -497,26 +497,26 @@
 
 | № | Глава |
 |---|-------|
-| 331 | [Дистилляция знаний для трейдинга](chapters/331_knowledge_distillation_trading/) |
-| 332 | [Компрессия моделей для финансов](chapters/332_model_compression_finance/) |
-| 333 | [Прунинг торговых моделей](chapters/333_pruning_trading_models/) |
-| 334 | [Квантизация торговых моделей](chapters/334_quantization_trading_models/) |
-| 335 | [Гипотеза лотерейного билета](chapters/335_lottery_ticket_trading/) |
-| 336 | [Самодистилляция для трейдинга](chapters/336_self_distillation_trading/) |
-| 337 | [Учитель-ученик для трейдинга](chapters/337_teacher_student_trading/) |
-| 338 | [Прогрессивная дистилляция](chapters/338_progressive_distillation/) |
-| 339 | [Дистилляция данных для трейдинга](chapters/339_data_distillation_trading/) |
-| 340 | [Дистилляция признаков](chapters/340_feature_distillation/) |
-| 341 | [NAS для трейдинга](chapters/341_nas_for_trading/) |
-| 342 | [AutoML для финансов](chapters/342_automl_finance/) |
-| 343 | [Оптимизация гиперпараметров](chapters/343_hyperparameter_optimization/) |
-| 344 | [Эволюционный NAS для трейдинга](chapters/344_evolutionary_nas_trading/) |
-| 345 | [Дифференцируемый NAS](chapters/345_differentiable_nas/) |
-| 346 | [One-Shot NAS](chapters/346_one_shot_nas/) |
-| 347 | [Аппаратно-ориентированный NAS](chapters/347_hardware_aware_nas/) |
-| 348 | [Многоцелевой NAS](chapters/348_multi_objective_nas/) |
-| 349 | [DARTS для трейдинга](chapters/349_darts_trading/) |
-| 350 | [EXAMM для трейдинга](chapters/350_examm_trading/) |
+| 331 | [Дистилляция знаний для трейдинга](https://github.com/suenot/331-knowledge-distillation-trading) |
+| 332 | [Компрессия моделей для финансов](https://github.com/suenot/332-model-compression-finance) |
+| 333 | [Прунинг торговых моделей](https://github.com/suenot/333-pruning-trading-models) |
+| 334 | [Квантизация торговых моделей](https://github.com/suenot/334-quantization-trading-models) |
+| 335 | [Гипотеза лотерейного билета](https://github.com/suenot/335-lottery-ticket-trading) |
+| 336 | [Самодистилляция для трейдинга](https://github.com/suenot/336-self-distillation-trading) |
+| 337 | [Учитель-ученик для трейдинга](https://github.com/suenot/337-teacher-student-trading) |
+| 338 | [Прогрессивная дистилляция](https://github.com/suenot/338-progressive-distillation) |
+| 339 | [Дистилляция данных для трейдинга](https://github.com/suenot/339-data-distillation-trading) |
+| 340 | [Дистилляция признаков](https://github.com/suenot/340-feature-distillation) |
+| 341 | [NAS для трейдинга](https://github.com/suenot/341-nas-for-trading) |
+| 342 | [AutoML для финансов](https://github.com/suenot/342-automl-finance) |
+| 343 | [Оптимизация гиперпараметров](https://github.com/suenot/343-hyperparameter-optimization) |
+| 344 | [Эволюционный NAS для трейдинга](https://github.com/suenot/344-evolutionary-nas-trading) |
+| 345 | [Дифференцируемый NAS](https://github.com/suenot/345-differentiable-nas) |
+| 346 | [One-Shot NAS](https://github.com/suenot/346-one-shot-nas) |
+| 347 | [Аппаратно-ориентированный NAS](https://github.com/suenot/347-hardware-aware-nas) |
+| 348 | [Многоцелевой NAS](https://github.com/suenot/348-multi-objective-nas) |
+| 349 | [DARTS для трейдинга](https://github.com/suenot/349-darts-trading) |
+| 350 | [EXAMM для трейдинга](https://github.com/suenot/350-examm-trading) |
 
 ---
 
@@ -524,16 +524,16 @@
 
 | № | Глава |
 |---|-------|
-| 351 | [Состязательное обучение для трейдинга](chapters/351_adversarial_training_trading/) |
-| 352 | [Обнаружение состязательных атак](chapters/352_adversarial_attack_detection/) |
-| 353 | [Устойчивые торговые модели](chapters/353_robust_trading_models/) |
-| 354 | [Защита от возмущений входа](chapters/354_input_perturbation_defense/) |
-| 355 | [Сертифицированная устойчивость](chapters/355_certified_robustness/) |
-| 356 | [Состязательные примеры в финансах](chapters/356_adversarial_examples_finance/) |
-| 357 | [Атаки уклонения для трейдинга](chapters/357_evasion_attacks_trading/) |
-| 358 | [Атаки отравления для трейдинга](chapters/358_poisoning_attacks_trading/) |
-| 359 | [Инверсия модели в финансах](chapters/359_model_inversion_finance/) |
-| 360 | [Атаки принадлежности](chapters/360_membership_inference/) |
+| 351 | [Состязательное обучение для трейдинга](https://github.com/suenot/351-adversarial-training-trading) |
+| 352 | [Обнаружение состязательных атак](https://github.com/suenot/352-adversarial-attack-detection) |
+| 353 | [Устойчивые торговые модели](https://github.com/suenot/353-robust-trading-models) |
+| 354 | [Защита от возмущений входа](https://github.com/suenot/354-input-perturbation-defense) |
+| 355 | [Сертифицированная устойчивость](https://github.com/suenot/355-certified-robustness) |
+| 356 | [Состязательные примеры в финансах](https://github.com/suenot/356-adversarial-examples-finance) |
+| 357 | [Атаки уклонения для трейдинга](https://github.com/suenot/357-evasion-attacks-trading) |
+| 358 | [Атаки отравления для трейдинга](https://github.com/suenot/358-poisoning-attacks-trading) |
+| 359 | [Инверсия модели в финансах](https://github.com/suenot/359-model-inversion-finance) |
+| 360 | [Атаки принадлежности](https://github.com/suenot/360-membership-inference) |
 
 ---
 
@@ -541,11 +541,11 @@
 
 | № | Глава |
 |---|-------|
-| 361 | [Оператор Купмана для трейдинга](chapters/361_koopman_operator_trading/) |
-| 362 | [Резервуарные вычисления для трейдинга](chapters/362_reservoir_computing_trading/) |
-| 363 | [Жидкие нейронные сети для трейдинга](chapters/363_liquid_neural_networks_trading/) |
-| 364 | [Нейроморфный трейдинг](chapters/364_neuromorphic_trading/) |
-| 365 | [Фундаментальные модели для трейдинга: следующий рубеж](chapters/365_foundation_models_trading/) |
+| 361 | [Оператор Купмана для трейдинга](https://github.com/suenot/361-koopman-operator-trading) |
+| 362 | [Резервуарные вычисления для трейдинга](https://github.com/suenot/362-reservoir-computing-trading) |
+| 363 | [Жидкие нейронные сети для трейдинга](https://github.com/suenot/363-liquid-neural-networks-trading) |
+| 364 | [Нейроморфный трейдинг](https://github.com/suenot/364-neuromorphic-trading) |
+| 365 | [Фундаментальные модели для трейдинга: следующий рубеж](https://github.com/suenot/365-foundation-models-trading) |
 
 ---
 
